@@ -1,0 +1,405 @@
+topic,model,P1_Agreeableness,P1_Openness,P1_Conscientiousness,P1_Extraversion,P1_Neuroticism,P2_Agreeableness,P2_Openness,P2_Conscientiousness,P2_Extraversion,P2_Neuroticism,A_Agreeableness,A_Openness,A_Conscientiousness,A_Extraversion,A_Neuroticism
+Should the death penalty be abolished?,GPT-4o,Low,Low,High,Low,Low,High,High,High,Low,Low,High,Low,High,Low,High
+Is animal testing justified?,GPT-4o,Low,Low,High,Low,Low,High,High,High,Low,Low,High,Low,High,Low,High
+Should climate change be a government priority?,GPT-4o,Low,Low,High,Low,High,Low,Low,High,Low,Low,High,Low,High,Low,High
+Is the school curriculum preparing students for real life?,GPT-4o,Low,High,High,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Should the voting age be lowered?,GPT-4o,Low,Low,High,Low,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Is social media more harmful than beneficial?,GPT-4o,Low,Low,Low,Low,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Should genetically modified organisms (GMOs) be banned?,GPT-4o,Low,Low,High,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Is a universal basic income a viable solution?,GPT-4o,Low,Low,High,High,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Should the use of plastic be completely eliminated?,GPT-4o,Low,Low,High,Low,High,Low,Low,High,Low,Low,High,Low,High,Low,High
+Is homeschooling better than traditional schooling?,GPT-4o,Low,Low,High,High,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Should the government regulate the internet?,GPT-4o,Low,Low,High,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Is censorship ever justified?,GPT-4o,Low,Low,High,High,High,Low,High,Low,Low,Low,High,Low,High,Low,High
+Should healthcare be free for everyone?,GPT-4o,Low,Low,High,Low,High,Low,Low,High,Low,Low,High,Low,High,Low,High
+Is the concept of marriage outdated?,GPT-4o,Low,High,Low,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Should the legal drinking age be changed?,GPT-4o,Low,High,Low,Low,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Is capital punishment effective in deterring crime?,GPT-4o,Low,Low,High,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Should the use of drones be regulated?,GPT-4o,Low,Low,High,Low,High,Low,High,Low,Low,Low,High,Low,High,Low,High
+Is the gig economy beneficial for workers?,GPT-4o,Low,Low,High,Low,High,High,High,Low,Low,High,High,Low,High,Low,High
+Should advertising to children be restricted?,GPT-4o,Low,High,Low,Low,High,High,High,High,Low,High,High,Low,High,Low,High
+Is the current education system outdated?,GPT-4o,Low,High,Low,High,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Should the government provide free internet access?,GPT-4o,Low,Low,High,Low,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Is the concept of a nuclear family still relevant?,GPT-4o,Low,High,Low,Low,High,High,Low,High,Low,Low,High,Low,High,Low,High
+Should the use of fossil fuels be banned?,GPT-4o,Low,High,High,High,High,High,High,High,Low,Low,High,Low,High,Low,High
+Is the portrayal of violence in media harmful?,GPT-4o,Low,Low,High,Low,High,Low,High,High,Low,Low,High,Low,High,Low,High
+Should the government control the media?,GPT-4o,Low,Low,High,Low,High,Low,High,High,Low,High,High,Low,High,Low,High
+Is the use of surveillance cameras an invasion of privacy?,GPT-4o,Low,Low,Low,Low,High,Low,High,High,Low,High,High,Low,High,Low,High
+Should the government fund space exploration?,GPT-4o,Low,Low,High,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Is the fashion industry contributing to body image issues?,GPT-4o,Low,High,Low,Low,High,Low,High,High,Low,Low,High,Low,High,Low,High
+Should the use of performance-enhancing drugs be allowed in sports?,GPT-4o,Low,Low,High,High,High,Low,High,Low,High,Low,High,Low,High,Low,High
+Is the concept of a minimum wage outdated?,GPT-4o,Low,Low,High,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Should the government regulate the food industry?,GPT-4o,Low,Low,High,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Is the use of animals in entertainment ethical?,GPT-4o,Low,High,High,Low,High,High,High,Low,Low,High,High,Low,High,Low,High
+Should the government provide free childcare?,GPT-4o,Low,Low,High,Low,High,Low,Low,High,Low,Low,High,Low,High,Low,High
+Is the concept of a work-life balance achievable?,GPT-4o,Low,Low,Low,Low,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Should the government regulate the housing market?,GPT-4o,Low,High,High,Low,High,Low,Low,Low,Low,High,High,Low,High,Low,High
+Is the use of artificial intelligence ethical?,GPT-4o,Low,Low,High,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Should the government provide free higher education?,GPT-4o,Low,Low,High,Low,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Is the concept of a universal language beneficial?,GPT-4o,Low,Low,High,Low,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Should the government regulate the pharmaceutical industry?,GPT-4o,Low,High,High,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Is the use of nuclear energy justified?,GPT-4o,Low,Low,High,Low,High,Low,High,High,Low,Low,High,Low,High,Low,High
+Should the government provide free public transportation?,GPT-4o,Low,Low,High,Low,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Is the concept of a cashless society beneficial?,GPT-4o,Low,Low,High,Low,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Should the government regulate the gaming industry?,GPT-4o,Low,Low,High,Low,High,Low,High,Low,Low,Low,High,Low,High,Low,High
+Is the use of genetic engineering ethical?,GPT-4o,Low,Low,High,Low,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Should the government provide free mental health services?,GPT-4o,Low,Low,High,Low,Low,Low,Low,High,Low,Low,High,Low,High,Low,High
+Is the concept of a global government feasible?,GPT-4o,Low,Low,High,Low,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Should the government regulate the fashion industry?,GPT-4o,Low,Low,Low,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Is the use of cloning ethical?,GPT-4o,Low,Low,High,Low,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Should the government provide free legal services?,GPT-4o,Low,Low,High,Low,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Is the concept of a merit-based immigration system fair?,GPT-4o,Low,Low,High,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Should the government regulate the tourism industry?,GPT-4o,Low,Low,High,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Is the use of corporal punishment justified?,GPT-4o,Low,Low,High,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Should the government provide free housing?,GPT-4o,Low,Low,High,Low,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Is the concept of a digital currency beneficial?,GPT-4o,Low,High,Low,High,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Should the government regulate the art industry?,GPT-4o,Low,High,Low,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Is the use of torture ever justified?,GPT-4o,Low,Low,High,High,High,High,High,High,Low,Low,High,Low,High,Low,High
+Should the government provide free vocational training?,GPT-4o,Low,Low,High,Low,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Is the concept of a flat tax rate fair?,GPT-4o,Low,High,High,High,High,Low,Low,High,Low,Low,High,Low,High,Low,High
+Should the government regulate the music industry?,GPT-4o,Low,High,Low,Low,High,High,Low,High,Low,High,High,Low,High,Low,High
+Is the use of child labor ever justified?,GPT-4o,Low,Low,High,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Should the government provide free elder care?,GPT-4o,Low,Low,High,High,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Is the concept of a universal healthcare system feasible?,GPT-4o,Low,Low,High,Low,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Should the government regulate the film industry?,GPT-4o,Low,High,Low,Low,High,High,Low,High,Low,High,High,Low,High,Low,High
+Is the use of capital punishment ethical?,GPT-4o,Low,High,High,Low,High,Low,Low,High,Low,Low,High,Low,High,Low,High
+Should the government provide free job training?,GPT-4o,Low,Low,High,Low,High,Low,Low,High,Low,Low,High,Low,High,Low,High
+Is the concept of a living wage achievable?,GPT-4o,Low,Low,Low,Low,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Should the government regulate the publishing industry?,GPT-4o,Low,High,Low,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Is the use of sweatshops ever justified?,GPT-4o,Low,Low,High,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Should the government provide free healthcare for all?,GPT-4o,Low,Low,High,Low,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Is the concept of a universal education system beneficial?,GPT-4o,Low,High,High,Low,High,Low,High,High,Low,Low,High,Low,High,Low,High
+Should the government regulate the advertising industry?,GPT-4o,Low,Low,Low,High,High,High,Low,High,Low,High,High,Low,High,Low,High
+Is the use of child soldiers ever justified?,GPT-4o,Low,Low,Low,High,High,High,High,High,Low,Low,High,Low,High,Low,High
+Should the government provide free public services?,GPT-4o,Low,Low,High,Low,High,Low,Low,High,Low,Low,High,Low,High,Low,High
+Is the concept of a global currency feasible?,GPT-4o,Low,Low,High,Low,High,Low,Low,High,High,High,High,Low,High,Low,High
+Should the government regulate the telecommunications industry?,GPT-4o,Low,Low,Low,High,High,High,High,High,Low,Low,High,Low,High,Low,High
+Is the use of nuclear weapons ever justified?,GPT-4o,Low,Low,High,High,Low,Low,High,High,Low,High,High,Low,High,Low,High
+Should the government provide free environmental services?,GPT-4o,Low,Low,High,Low,High,Low,Low,High,Low,Low,High,Low,High,Low,High
+Is the concept of a universal basic income feasible?,GPT-4o,Low,Low,High,Low,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Should the government regulate the transportation industry?,GPT-4o,Low,Low,Low,High,High,High,High,High,Low,Low,High,Low,High,Low,High
+Is the use of genetic modification in humans ethical?,GPT-4o,Low,Low,High,Low,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Should the government provide free disaster relief services?,GPT-4o,Low,Low,High,Low,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Is the concept of a universal language achievable?,GPT-4o,Low,Low,Low,Low,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Should the government regulate the energy industry?,GPT-4o,Low,Low,High,High,High,Low,High,High,Low,Low,High,Low,High,Low,High
+Is the use of artificial intelligence in warfare ethical?,GPT-4o,Low,Low,High,Low,High,Low,High,High,Low,Low,High,Low,High,Low,High
+Should the government provide free emergency services?,GPT-4o,Low,Low,High,Low,High,Low,Low,High,Low,Low,High,Low,High,Low,High
+Is the concept of a global government beneficial?,GPT-4o,Low,Low,High,Low,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Should the government regulate the water industry?,GPT-4o,Low,Low,Low,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Is the use of genetic engineering in agriculture ethical?,GPT-4o,Low,High,High,Low,High,Low,High,High,Low,High,High,Low,High,Low,High
+Should the government provide free sanitation services?,GPT-4o,Low,High,High,Low,High,Low,High,High,Low,Low,High,Low,High,Low,High
+Is the concept of a cashless society feasible?,GPT-4o,Low,High,High,Low,High,Low,High,High,Low,High,High,Low,High,Low,High
+Should the government regulate the waste management industry?,GPT-4o,Low,High,High,Low,High,Low,High,Low,Low,High,High,Low,High,Low,High
+Is the use of artificial intelligence in healthcare ethical?,GPT-4o,Low,Low,High,Low,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Should the government provide free education for all?,GPT-4o,Low,Low,High,Low,High,Low,Low,High,Low,Low,High,Low,High,Low,High
+Is the concept of a universal currency beneficial?,GPT-4o,Low,Low,High,Low,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Should the government regulate the financial industry?,GPT-4o,Low,Low,Low,High,High,High,High,High,Low,Low,High,Low,High,Low,High
+Is the use of genetic modification in animals ethical?,GPT-4o,Low,Low,High,Low,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Should the government provide free housing for all?,GPT-4o,Low,Low,High,Low,High,Low,Low,High,Low,Low,High,Low,High,Low,High
+Is the concept of a global language beneficial?,GPT-4o,Low,Low,Low,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Should the government regulate the insurance industry?,GPT-4o,Low,Low,Low,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Is the use of artificial intelligence in education ethical?,GPT-4o,Low,Low,High,Low,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Should the government provide free transportation for all?,GPT-4o,Low,Low,High,Low,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Should the death penalty be abolished?,GPT-40-mini,Low,Low,High,Low,Low,High,High,High,Low,Low,High,Low,High,Low,High
+Is animal testing justified?,GPT-40-mini,Low,Low,High,Low,Low,High,High,High,Low,Low,High,Low,High,Low,High
+Should climate change be a government priority?,GPT-40-mini,Low,Low,High,Low,Low,Low,Low,High,Low,Low,High,Low,High,Low,High
+Is the school curriculum preparing students for real life?,GPT-40-mini,Low,High,High,Low,Low,High,High,High,Low,Low,High,Low,High,Low,High
+Should the voting age be lowered?,GPT-40-mini,Low,Low,High,Low,High,Low,Low,High,Low,Low,High,Low,High,Low,High
+Is social media more harmful than beneficial?,GPT-40-mini,Low,Low,Low,Low,High,Low,High,Low,Low,High,High,Low,High,Low,High
+Should genetically modified organisms (GMOs) be banned?,GPT-40-mini,Low,High,High,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Is a universal basic income a viable solution?,GPT-40-mini,Low,Low,High,Low,High,Low,Low,High,Low,Low,High,Low,High,Low,High
+Should the use of plastic be completely eliminated?,GPT-40-mini,Low,Low,High,Low,Low,Low,Low,High,Low,Low,High,Low,High,Low,High
+Is homeschooling better than traditional schooling?,GPT-40-mini,Low,Low,High,Low,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Should the government regulate the internet?,GPT-40-mini,Low,Low,Low,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Is censorship ever justified?,GPT-40-mini,Low,Low,High,Low,High,Low,High,Low,High,Low,High,Low,High,Low,High
+Should healthcare be free for everyone?,GPT-40-mini,Low,Low,High,Low,High,Low,Low,High,Low,Low,High,Low,High,Low,High
+Is the concept of marriage outdated?,GPT-40-mini,Low,High,Low,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Should the legal drinking age be changed?,GPT-40-mini,Low,High,Low,Low,Low,Low,Low,High,Low,Low,High,Low,High,Low,High
+Is capital punishment effective in deterring crime?,GPT-40-mini,Low,Low,High,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Should the use of drones be regulated?,GPT-40-mini,Low,Low,High,Low,High,Low,High,High,Low,Low,High,Low,High,Low,High
+Is the gig economy beneficial for workers?,GPT-40-mini,Low,Low,High,Low,High,High,High,Low,Low,High,High,Low,High,Low,High
+Should advertising to children be restricted?,GPT-40-mini,Low,Low,Low,Low,Low,High,High,High,Low,High,High,Low,High,Low,High
+Is the current education system outdated?,GPT-40-mini,Low,High,Low,High,Low,High,Low,High,Low,Low,High,Low,High,Low,High
+Should the government provide free internet access?,GPT-40-mini,Low,Low,High,Low,High,Low,Low,High,Low,Low,High,Low,High,Low,High
+Is the concept of a nuclear family still relevant?,GPT-40-mini,Low,High,Low,Low,High,High,Low,High,Low,Low,High,Low,High,Low,High
+Should the use of fossil fuels be banned?,GPT-40-mini,Low,Low,High,High,High,High,High,High,Low,Low,High,Low,High,Low,High
+Is the portrayal of violence in media harmful?,GPT-40-mini,Low,High,High,Low,Low,Low,High,High,Low,Low,High,Low,High,Low,High
+Should the government control the media?,GPT-40-mini,Low,Low,High,Low,High,Low,High,High,Low,Low,High,Low,High,Low,High
+Is the use of surveillance cameras an invasion of privacy?,GPT-40-mini,Low,High,Low,Low,High,Low,High,Low,Low,High,High,Low,High,Low,High
+Should the government fund space exploration?,GPT-40-mini,Low,Low,High,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Is the fashion industry contributing to body image issues?,GPT-40-mini,Low,High,Low,Low,High,Low,High,High,Low,Low,High,Low,High,Low,High
+Should the use of performance-enhancing drugs be allowed in sports?,GPT-40-mini,High,Low,High,Low,Low,Low,High,Low,High,Low,High,Low,High,Low,High
+Is the concept of a minimum wage outdated?,GPT-40-mini,Low,Low,Low,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Should the government regulate the food industry?,GPT-40-mini,Low,High,Low,High,Low,High,High,High,Low,Low,High,Low,High,Low,High
+Is the use of animals in entertainment ethical?,GPT-40-mini,High,High,High,Low,Low,Low,High,Low,Low,Low,High,Low,High,Low,High
+Should the government provide free childcare?,GPT-40-mini,Low,Low,High,Low,Low,Low,Low,High,Low,Low,High,Low,High,Low,High
+Is the concept of a work-life balance achievable?,GPT-40-mini,High,High,Low,Low,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Should the government regulate the housing market?,GPT-40-mini,Low,High,High,Low,Low,Low,High,Low,Low,Low,High,Low,High,Low,High
+Is the use of artificial intelligence ethical?,GPT-40-mini,Low,Low,High,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Should the government provide free higher education?,GPT-40-mini,Low,Low,High,Low,High,Low,Low,High,Low,Low,High,Low,High,Low,High
+Is the concept of a universal language beneficial?,GPT-40-mini,Low,Low,Low,Low,High,Low,Low,High,Low,Low,High,Low,High,Low,High
+Should the government regulate the pharmaceutical industry?,GPT-40-mini,High,High,High,Low,Low,Low,High,High,Low,Low,High,Low,High,Low,High
+Is the use of nuclear energy justified?,GPT-40-mini,Low,High,High,Low,High,Low,High,High,Low,Low,High,Low,High,Low,High
+Should the government provide free public transportation?,GPT-40-mini,Low,Low,High,Low,Low,Low,Low,High,Low,Low,High,Low,High,Low,High
+Is the concept of a cashless society beneficial?,GPT-40-mini,Low,High,Low,Low,High,High,Low,High,Low,High,High,Low,High,Low,High
+Should the government regulate the gaming industry?,GPT-40-mini,High,High,High,Low,Low,Low,High,Low,High,Low,High,Low,High,Low,High
+Is the use of genetic engineering ethical?,GPT-40-mini,Low,Low,High,Low,High,High,High,High,Low,High,High,Low,High,Low,High
+Should the government provide free mental health services?,GPT-40-mini,Low,Low,High,Low,Low,Low,Low,High,Low,Low,High,Low,High,Low,High
+Is the concept of a global government feasible?,GPT-40-mini,Low,Low,High,Low,High,Low,Low,High,Low,Low,High,Low,High,Low,High
+Should the government regulate the fashion industry?,GPT-40-mini,Low,High,Low,Low,Low,High,High,High,Low,Low,High,Low,High,Low,High
+Is the use of cloning ethical?,GPT-40-mini,Low,Low,High,Low,High,High,Low,High,Low,High,High,Low,High,Low,High
+Should the government provide free legal services?,GPT-40-mini,Low,Low,High,Low,High,Low,Low,High,Low,Low,High,Low,High,Low,High
+Is the concept of a merit-based immigration system fair?,GPT-40-mini,Low,Low,High,Low,High,Low,High,High,Low,Low,High,Low,High,Low,High
+Should the government regulate the tourism industry?,GPT-40-mini,Low,Low,High,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Is the use of corporal punishment justified?,GPT-40-mini,Low,Low,High,Low,Low,High,High,High,Low,Low,High,Low,High,Low,High
+Should the government provide free housing?,GPT-40-mini,Low,Low,High,Low,Low,Low,High,High,Low,Low,High,Low,High,Low,High
+Is the concept of a digital currency beneficial?,GPT-40-mini,Low,High,Low,High,Low,Low,Low,High,Low,High,High,Low,High,Low,High
+Should the government regulate the art industry?,GPT-40-mini,Low,High,Low,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Is the use of torture ever justified?,GPT-40-mini,Low,Low,High,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Should the government provide free vocational training?,GPT-40-mini,Low,Low,High,Low,Low,Low,Low,High,Low,Low,High,Low,High,Low,High
+Is the concept of a flat tax rate fair?,GPT-40-mini,High,High,Low,Low,High,Low,High,High,Low,Low,High,Low,High,Low,High
+Should the government regulate the music industry?,GPT-40-mini,Low,High,Low,Low,High,High,Low,High,Low,Low,High,Low,High,Low,High
+Is the use of child labor ever justified?,GPT-40-mini,Low,Low,High,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Should the government provide free elder care?,GPT-40-mini,Low,Low,High,Low,High,Low,Low,High,Low,Low,High,Low,High,Low,High
+Is the concept of a universal healthcare system feasible?,GPT-40-mini,Low,Low,High,Low,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Should the government regulate the film industry?,GPT-40-mini,Low,High,Low,Low,High,High,Low,High,Low,Low,High,Low,High,Low,High
+Is the use of capital punishment ethical?,GPT-40-mini,High,High,Low,Low,Low,Low,Low,High,Low,Low,High,Low,High,Low,High
+Should the government provide free job training?,GPT-40-mini,Low,Low,High,Low,High,Low,Low,High,Low,Low,High,Low,High,Low,High
+Is the concept of a living wage achievable?,GPT-40-mini,Low,Low,Low,Low,High,Low,Low,Low,Low,High,High,Low,High,Low,High
+Should the government regulate the publishing industry?,GPT-40-mini,Low,High,Low,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Is the use of sweatshops ever justified?,GPT-40-mini,Low,Low,High,Low,Low,High,High,High,Low,Low,High,Low,High,Low,High
+Should the government provide free healthcare for all?,GPT-40-mini,Low,Low,High,Low,High,Low,Low,High,Low,Low,High,Low,High,Low,High
+Is the concept of a universal education system beneficial?,GPT-40-mini,Low,High,Low,Low,High,Low,High,Low,Low,Low,High,Low,High,Low,High
+Should the government regulate the advertising industry?,GPT-40-mini,Low,High,Low,Low,Low,High,High,High,Low,Low,High,Low,High,Low,High
+Is the use of child soldiers ever justified?,GPT-40-mini,Low,Low,Low,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Should the government provide free public services?,GPT-40-mini,Low,Low,High,Low,High,Low,Low,High,Low,Low,High,Low,High,Low,High
+Is the concept of a global currency feasible?,GPT-40-mini,Low,Low,High,Low,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Should the government regulate the telecommunications industry?,GPT-40-mini,Low,High,Low,High,Low,High,High,High,Low,Low,High,Low,High,Low,High
+Is the use of nuclear weapons ever justified?,GPT-40-mini,Low,Low,High,High,Low,High,High,High,Low,Low,High,Low,High,Low,High
+Should the government provide free environmental services?,GPT-40-mini,Low,Low,High,Low,Low,Low,Low,High,Low,Low,High,Low,High,Low,High
+Is the concept of a universal basic income feasible?,GPT-40-mini,Low,Low,High,Low,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Should the government regulate the transportation industry?,GPT-40-mini,Low,Low,Low,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Is the use of genetic modification in humans ethical?,GPT-40-mini,Low,High,High,Low,High,High,High,High,Low,High,High,Low,High,Low,High
+Should the government provide free disaster relief services?,GPT-40-mini,Low,Low,High,Low,High,Low,Low,High,Low,Low,High,Low,High,Low,High
+Is the concept of a universal language achievable?,GPT-40-mini,Low,Low,Low,Low,High,Low,Low,High,Low,Low,High,Low,High,Low,High
+Should the government regulate the energy industry?,GPT-40-mini,Low,High,High,Low,Low,Low,High,Low,Low,Low,High,Low,High,Low,High
+Is the use of artificial intelligence in warfare ethical?,GPT-40-mini,Low,Low,High,Low,High,Low,High,High,Low,Low,High,Low,High,Low,High
+Should the government provide free emergency services?,GPT-40-mini,Low,Low,High,Low,High,Low,Low,High,Low,Low,High,Low,High,Low,High
+Is the concept of a global government beneficial?,GPT-40-mini,Low,Low,High,Low,Low,Low,Low,High,Low,Low,High,Low,High,Low,High
+Should the government regulate the water industry?,GPT-40-mini,Low,Low,Low,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Is the use of genetic engineering in agriculture ethical?,GPT-40-mini,High,High,High,Low,Low,High,High,High,Low,Low,High,Low,High,Low,High
+Should the government provide free sanitation services?,GPT-40-mini,Low,High,Low,Low,High,Low,High,High,Low,Low,High,Low,High,Low,High
+Is the concept of a cashless society feasible?,GPT-40-mini,Low,Low,High,Low,High,Low,High,High,Low,High,High,Low,High,Low,High
+Should the government regulate the waste management industry?,GPT-40-mini,Low,High,High,Low,Low,Low,High,Low,Low,Low,High,Low,High,Low,High
+Is the use of artificial intelligence in healthcare ethical?,GPT-40-mini,Low,Low,High,Low,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Should the government provide free education for all?,GPT-40-mini,Low,Low,High,Low,Low,Low,Low,High,Low,Low,High,Low,High,Low,High
+Is the concept of a universal currency beneficial?,GPT-40-mini,Low,Low,High,Low,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Should the government regulate the financial industry?,GPT-40-mini,Low,Low,Low,High,Low,High,High,High,Low,Low,High,Low,High,Low,High
+Is the use of genetic modification in animals ethical?,GPT-40-mini,Low,Low,High,Low,High,High,Low,High,Low,High,High,Low,High,Low,High
+Should the government provide free housing for all?,GPT-40-mini,Low,Low,High,Low,Low,Low,Low,High,Low,Low,High,Low,High,Low,High
+Is the concept of a global language beneficial?,GPT-40-mini,Low,High,Low,Low,High,High,High,Low,Low,Low,High,Low,High,Low,High
+Should the government regulate the insurance industry?,GPT-40-mini,Low,Low,Low,High,Low,High,High,High,Low,Low,High,Low,High,Low,High
+Is the use of artificial intelligence in education ethical?,GPT-40-mini,Low,Low,High,Low,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Should the government provide free transportation for all?,GPT-40-mini,Low,Low,High,Low,High,Low,Low,High,Low,Low,High,Low,High,Low,High
+Should the death penalty be abolished?,LLaMA,Low,Low,High,High,Low,High,High,High,Low,Low,High,Low,High,Low,High
+Is animal testing justified?,LLaMA,Low,Low,High,Low,Low,High,High,High,Low,Low,High,Low,High,Low,High
+Should climate change be a government priority?,LLaMA,Low,Low,Low,Low,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Is the school curriculum preparing students for real life?,LLaMA,Low,High,High,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Should the voting age be lowered?,LLaMA,Low,Low,High,Low,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Is social media more harmful than beneficial?,LLaMA,Low,Low,Low,Low,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Should genetically modified organisms (GMOs) be banned?,LLaMA,Low,Low,High,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Is a universal basic income a viable solution?,LLaMA,Low,Low,High,Low,High,Low,Low,High,Low,Low,High,Low,High,Low,High
+Should the use of plastic be completely eliminated?,LLaMA,Low,Low,High,Low,Low,Low,Low,High,Low,Low,High,Low,High,Low,High
+Is homeschooling better than traditional schooling?,LLaMA,Low,Low,High,Low,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Should the government regulate the internet?,LLaMA,Low,Low,High,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Is censorship ever justified?,LLaMA,Low,Low,High,Low,High,Low,High,High,Low,Low,High,Low,High,Low,High
+Should healthcare be free for everyone?,LLaMA,Low,Low,High,Low,High,Low,Low,High,Low,Low,High,Low,High,Low,High
+Is the concept of marriage outdated?,LLaMA,Low,Low,Low,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Should the legal drinking age be changed?,LLaMA,Low,High,Low,Low,Low,Low,Low,High,Low,High,High,Low,High,Low,High
+Is capital punishment effective in deterring crime?,LLaMA,Low,Low,High,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Should the use of drones be regulated?,LLaMA,Low,Low,High,Low,High,Low,High,High,Low,Low,High,Low,High,Low,High
+Is the gig economy beneficial for workers?,LLaMA,Low,Low,High,Low,High,High,High,Low,Low,Low,High,Low,High,Low,High
+Should advertising to children be restricted?,LLaMA,Low,High,Low,High,Low,High,High,High,Low,High,High,Low,High,Low,High
+Is the current education system outdated?,LLaMA,Low,High,High,High,Low,High,Low,High,Low,Low,High,Low,High,Low,High
+Should the government provide free internet access?,LLaMA,Low,Low,High,Low,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Is the concept of a nuclear family still relevant?,LLaMA,Low,High,Low,Low,High,High,Low,High,Low,Low,High,Low,High,Low,High
+Should the use of fossil fuels be banned?,LLaMA,Low,High,High,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Is the portrayal of violence in media harmful?,LLaMA,Low,Low,High,Low,High,Low,High,High,Low,Low,High,Low,High,Low,High
+Should the government control the media?,LLaMA,Low,Low,High,Low,High,Low,High,High,Low,High,High,Low,High,Low,High
+Is the use of surveillance cameras an invasion of privacy?,LLaMA,Low,Low,High,Low,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Should the government fund space exploration?,LLaMA,Low,Low,High,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Is the fashion industry contributing to body image issues?,LLaMA,Low,Low,High,Low,High,Low,High,High,Low,Low,High,Low,High,Low,High
+Should the use of performance-enhancing drugs be allowed in sports?,LLaMA,High,Low,High,Low,Low,Low,High,Low,High,Low,High,Low,High,Low,High
+Is the concept of a minimum wage outdated?,LLaMA,Low,Low,High,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Should the government regulate the food industry?,LLaMA,Low,Low,High,High,High,High,High,High,Low,Low,High,Low,High,Low,High
+Is the use of animals in entertainment ethical?,LLaMA,Low,High,High,Low,High,High,Low,Low,Low,High,High,Low,High,Low,High
+Should the government provide free childcare?,LLaMA,Low,Low,High,Low,Low,Low,Low,High,Low,Low,High,Low,High,Low,High
+Is the concept of a work-life balance achievable?,LLaMA,Low,Low,Low,Low,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Should the government regulate the housing market?,LLaMA,High,High,High,Low,High,Low,Low,Low,High,Low,High,Low,High,Low,High
+Is the use of artificial intelligence ethical?,LLaMA,Low,Low,High,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Should the government provide free higher education?,LLaMA,Low,Low,High,Low,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Is the concept of a universal language beneficial?,LLaMA,Low,Low,High,Low,High,Low,Low,High,Low,Low,High,Low,High,Low,High
+Should the government regulate the pharmaceutical industry?,LLaMA,High,High,High,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Is the use of nuclear energy justified?,LLaMA,Low,High,High,Low,High,Low,High,High,High,Low,High,Low,High,Low,High
+Should the government provide free public transportation?,LLaMA,Low,Low,High,Low,High,Low,Low,High,Low,Low,High,Low,High,Low,High
+Is the concept of a cashless society beneficial?,LLaMA,Low,Low,High,Low,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Should the government regulate the gaming industry?,LLaMA,High,Low,High,Low,High,Low,Low,High,Low,Low,High,Low,High,Low,High
+Is the use of genetic engineering ethical?,LLaMA,Low,Low,High,Low,High,High,Low,High,Low,High,High,Low,High,Low,High
+Should the government provide free mental health services?,LLaMA,Low,Low,High,Low,Low,Low,Low,High,Low,Low,High,Low,High,Low,High
+Is the concept of a global government feasible?,LLaMA,Low,Low,High,Low,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Should the government regulate the fashion industry?,LLaMA,Low,High,Low,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Is the use of cloning ethical?,LLaMA,Low,Low,High,Low,High,High,Low,High,Low,High,High,Low,High,Low,High
+Should the government provide free legal services?,LLaMA,Low,Low,High,Low,High,Low,Low,High,Low,Low,High,Low,High,Low,High
+Is the concept of a merit-based immigration system fair?,LLaMA,Low,Low,High,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Should the government regulate the tourism industry?,LLaMA,Low,Low,High,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Is the use of corporal punishment justified?,LLaMA,Low,Low,High,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Should the government provide free housing?,LLaMA,Low,Low,High,Low,High,Low,Low,High,Low,Low,High,Low,High,Low,High
+Is the concept of a digital currency beneficial?,LLaMA,Low,High,Low,High,Low,Low,Low,High,Low,High,High,Low,High,Low,High
+Should the government regulate the art industry?,LLaMA,Low,High,Low,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Is the use of torture ever justified?,LLaMA,Low,Low,High,High,High,High,High,High,Low,Low,High,Low,High,Low,High
+Should the government provide free vocational training?,LLaMA,Low,Low,High,Low,High,Low,Low,High,Low,Low,High,Low,High,Low,High
+Is the concept of a flat tax rate fair?,LLaMA,High,High,High,Low,High,High,Low,High,Low,Low,High,Low,High,Low,High
+Should the government regulate the music industry?,LLaMA,Low,High,High,Low,High,High,Low,High,Low,Low,High,Low,High,Low,High
+Is the use of child labor ever justified?,LLaMA,Low,Low,High,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Should the government provide free elder care?,LLaMA,Low,Low,High,Low,High,Low,Low,High,Low,Low,High,Low,High,Low,High
+Is the concept of a universal healthcare system feasible?,LLaMA,Low,Low,High,Low,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Should the government regulate the film industry?,LLaMA,Low,High,Low,High,High,High,Low,High,Low,High,High,Low,High,Low,High
+Is the use of capital punishment ethical?,LLaMA,High,High,High,Low,Low,Low,Low,High,Low,Low,High,Low,High,Low,High
+Should the government provide free job training?,LLaMA,Low,Low,High,Low,High,Low,Low,High,Low,Low,High,Low,High,Low,High
+Is the concept of a living wage achievable?,LLaMA,Low,Low,High,Low,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Should the government regulate the publishing industry?,LLaMA,Low,High,High,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Is the use of sweatshops ever justified?,LLaMA,Low,Low,High,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Should the government provide free healthcare for all?,LLaMA,Low,Low,High,Low,High,Low,Low,High,Low,Low,High,Low,High,Low,High
+Is the concept of a universal education system beneficial?,LLaMA,Low,Low,High,Low,High,Low,High,High,Low,Low,High,Low,High,Low,High
+Should the government regulate the advertising industry?,LLaMA,Low,High,Low,High,Low,High,Low,High,Low,Low,High,Low,High,Low,High
+Is the use of child soldiers ever justified?,LLaMA,Low,Low,Low,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Should the government provide free public services?,LLaMA,Low,Low,High,Low,High,Low,Low,High,Low,Low,High,Low,High,Low,High
+Is the concept of a global currency feasible?,LLaMA,Low,Low,High,Low,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Should the government regulate the telecommunications industry?,LLaMA,Low,High,Low,High,High,High,High,High,Low,Low,High,Low,High,Low,High
+Is the use of nuclear weapons ever justified?,LLaMA,Low,Low,High,Low,Low,High,High,High,Low,High,High,Low,High,Low,High
+Should the government provide free environmental services?,LLaMA,Low,Low,High,Low,Low,Low,Low,High,Low,Low,High,Low,High,Low,High
+Is the concept of a universal basic income feasible?,LLaMA,Low,Low,High,Low,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Should the government regulate the transportation industry?,LLaMA,Low,Low,Low,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Is the use of genetic modification in humans ethical?,LLaMA,Low,Low,High,Low,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Should the government provide free disaster relief services?,LLaMA,Low,Low,High,Low,High,Low,Low,High,Low,Low,High,Low,High,Low,High
+Is the concept of a universal language achievable?,LLaMA,Low,Low,Low,Low,High,High,Low,High,Low,Low,High,Low,High,Low,High
+Should the government regulate the energy industry?,LLaMA,Low,Low,High,Low,High,Low,High,High,Low,Low,High,Low,High,Low,High
+Is the use of artificial intelligence in warfare ethical?,LLaMA,Low,Low,High,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Should the government provide free emergency services?,LLaMA,Low,Low,High,Low,Low,Low,Low,High,Low,Low,High,Low,High,Low,High
+Is the concept of a global government beneficial?,LLaMA,Low,Low,High,Low,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Should the government regulate the water industry?,LLaMA,Low,Low,High,Low,High,High,High,High,Low,High,High,Low,High,Low,High
+Is the use of genetic engineering in agriculture ethical?,LLaMA,Low,High,High,Low,High,High,Low,High,Low,High,High,Low,High,Low,High
+Should the government provide free sanitation services?,LLaMA,Low,Low,High,Low,High,Low,High,High,Low,Low,High,Low,High,Low,High
+Is the concept of a cashless society feasible?,LLaMA,Low,Low,High,Low,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Should the government regulate the waste management industry?,LLaMA,High,Low,High,Low,High,Low,High,High,Low,Low,High,Low,High,Low,High
+Is the use of artificial intelligence in healthcare ethical?,LLaMA,Low,Low,High,Low,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Should the government provide free education for all?,LLaMA,Low,Low,High,Low,High,Low,Low,High,Low,Low,High,Low,High,Low,High
+Is the concept of a universal currency beneficial?,LLaMA,Low,Low,High,Low,High,High,Low,High,Low,High,High,Low,High,Low,High
+Should the government regulate the financial industry?,LLaMA,Low,Low,High,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Is the use of genetic modification in animals ethical?,LLaMA,Low,Low,High,Low,High,High,Low,High,Low,High,High,Low,High,Low,High
+Should the government provide free housing for all?,LLaMA,Low,Low,High,Low,High,Low,Low,High,Low,Low,High,Low,High,Low,High
+Is the concept of a global language beneficial?,LLaMA,Low,Low,High,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Should the government regulate the insurance industry?,LLaMA,Low,Low,High,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Is the use of artificial intelligence in education ethical?,LLaMA,Low,Low,High,Low,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Should the government provide free transportation for all?,LLaMA,Low,Low,High,Low,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Should the death penalty be abolished?,Qwen,Low,Low,High,Low,High,High,Low,High,Low,High,High,Low,High,Low,High
+Is animal testing justified?,Qwen,Low,Low,High,High,High,High,High,High,Low,Low,High,Low,High,Low,High
+Should climate change be a government priority?,Qwen,High,Low,Low,High,High,High,Low,High,Low,Low,High,Low,High,Low,High
+Is the school curriculum preparing students for real life?,Qwen,Low,Low,High,Low,High,High,Low,High,Low,Low,High,Low,High,Low,High
+Should the voting age be lowered?,Qwen,Low,Low,High,Low,Low,Low,Low,High,Low,Low,High,Low,High,Low,High
+Is social media more harmful than beneficial?,Qwen,High,High,Low,Low,High,Low,Low,Low,Low,High,High,Low,High,Low,High
+Should genetically modified organisms (GMOs) be banned?,Qwen,High,Low,High,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Is a universal basic income a viable solution?,Qwen,Low,Low,High,Low,High,Low,Low,High,High,High,High,Low,High,Low,High
+Should the use of plastic be completely eliminated?,Qwen,Low,Low,High,High,Low,Low,Low,High,High,Low,High,Low,High,Low,High
+Is homeschooling better than traditional schooling?,Qwen,Low,Low,Low,Low,High,Low,Low,High,Low,Low,High,Low,High,Low,High
+Should the government regulate the internet?,Qwen,Low,High,High,Low,High,High,Low,High,Low,Low,High,Low,High,Low,High
+Is censorship ever justified?,Qwen,Low,Low,High,Low,High,Low,High,Low,Low,Low,High,Low,High,Low,High
+Should healthcare be free for everyone?,Qwen,Low,Low,High,Low,High,Low,Low,High,High,High,High,Low,High,Low,High
+Is the concept of marriage outdated?,Qwen,Low,High,Low,Low,High,High,Low,High,Low,Low,High,Low,High,Low,High
+Should the legal drinking age be changed?,Qwen,High,High,Low,Low,Low,Low,Low,High,Low,Low,High,Low,High,Low,High
+Is capital punishment effective in deterring crime?,Qwen,Low,Low,High,Low,High,High,High,Low,Low,Low,High,Low,High,Low,High
+Should the use of drones be regulated?,Qwen,High,High,High,Low,High,High,High,High,High,Low,High,Low,High,Low,High
+Is the gig economy beneficial for workers?,Qwen,Low,Low,Low,Low,High,High,High,Low,Low,Low,High,Low,High,Low,High
+Should advertising to children be restricted?,Qwen,Low,Low,Low,Low,High,High,Low,High,Low,High,High,Low,High,Low,High
+Is the current education system outdated?,Qwen,Low,High,Low,Low,Low,High,Low,High,Low,Low,High,Low,High,Low,High
+Should the government provide free internet access?,Qwen,Low,Low,High,Low,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Is the concept of a nuclear family still relevant?,Qwen,Low,High,Low,Low,High,High,Low,High,Low,Low,High,Low,High,Low,High
+Should the use of fossil fuels be banned?,Qwen,Low,Low,Low,Low,High,High,Low,High,Low,Low,High,Low,High,Low,High
+Is the portrayal of violence in media harmful?,Qwen,Low,High,High,Low,Low,Low,High,Low,Low,Low,High,Low,High,Low,High
+Should the government control the media?,Qwen,Low,Low,High,Low,High,High,High,Low,Low,Low,High,Low,High,Low,High
+Is the use of surveillance cameras an invasion of privacy?,Qwen,Low,Low,Low,Low,High,High,Low,High,Low,High,High,Low,High,Low,High
+Should the government fund space exploration?,Qwen,Low,Low,Low,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Is the fashion industry contributing to body image issues?,Qwen,High,High,Low,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Should the use of performance-enhancing drugs be allowed in sports?,Qwen,High,Low,High,Low,High,Low,High,Low,High,Low,High,Low,High,Low,High
+Is the concept of a minimum wage outdated?,Qwen,Low,Low,Low,Low,High,High,High,Low,Low,Low,High,Low,High,Low,High
+Should the government regulate the food industry?,Qwen,High,Low,Low,Low,Low,High,Low,High,Low,High,High,Low,High,Low,High
+Is the use of animals in entertainment ethical?,Qwen,High,High,High,Low,High,High,High,Low,Low,Low,High,Low,High,Low,High
+Should the government provide free childcare?,Qwen,Low,Low,High,Low,High,Low,Low,High,High,High,High,Low,High,Low,High
+Is the concept of a work-life balance achievable?,Qwen,High,Low,Low,Low,High,Low,High,Low,Low,High,High,Low,High,Low,High
+Should the government regulate the housing market?,Qwen,High,Low,High,Low,High,High,Low,Low,Low,Low,High,Low,High,Low,High
+Is the use of artificial intelligence ethical?,Qwen,Low,Low,Low,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Should the government provide free higher education?,Qwen,Low,Low,High,Low,High,Low,Low,High,High,High,High,Low,High,Low,High
+Is the concept of a universal language beneficial?,Qwen,High,Low,Low,Low,High,High,Low,High,Low,Low,High,Low,High,Low,High
+Should the government regulate the pharmaceutical industry?,Qwen,High,Low,Low,Low,High,High,High,Low,Low,Low,High,Low,High,Low,High
+Is the use of nuclear energy justified?,Qwen,High,Low,High,Low,High,Low,High,High,Low,Low,High,Low,High,Low,High
+Should the government provide free public transportation?,Qwen,Low,Low,High,Low,Low,Low,Low,High,Low,Low,High,Low,High,Low,High
+Is the concept of a cashless society beneficial?,Qwen,High,Low,Low,Low,High,Low,Low,Low,Low,High,High,Low,High,Low,High
+Should the government regulate the gaming industry?,Qwen,High,High,Low,Low,Low,High,Low,Low,Low,Low,High,Low,High,Low,High
+Is the use of genetic engineering ethical?,Qwen,Low,Low,Low,Low,High,Low,Low,Low,Low,High,High,Low,High,Low,High
+Should the government provide free mental health services?,Qwen,Low,Low,High,Low,High,Low,Low,High,High,High,High,Low,High,Low,High
+Is the concept of a global government feasible?,Qwen,Low,Low,High,Low,High,Low,Low,High,Low,Low,High,Low,High,Low,High
+Should the government regulate the fashion industry?,Qwen,Low,Low,Low,Low,High,High,High,High,Low,Low,High,Low,High,Low,High
+Is the use of cloning ethical?,Qwen,Low,Low,High,Low,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Should the government provide free legal services?,Qwen,Low,Low,High,Low,High,Low,Low,High,High,High,High,Low,High,Low,High
+Is the concept of a merit-based immigration system fair?,Qwen,High,Low,Low,Low,High,High,Low,High,Low,Low,High,Low,High,Low,High
+Should the government regulate the tourism industry?,Qwen,Low,Low,High,Low,High,High,Low,High,Low,Low,High,Low,High,Low,High
+Is the use of corporal punishment justified?,Qwen,Low,Low,High,Low,High,High,High,Low,Low,Low,High,Low,High,Low,High
+Should the government provide free housing?,Qwen,Low,Low,High,Low,High,Low,Low,High,High,High,High,Low,High,Low,High
+Is the concept of a digital currency beneficial?,Qwen,Low,High,Low,High,High,High,Low,High,Low,High,High,Low,High,Low,High
+Should the government regulate the art industry?,Qwen,High,High,Low,Low,High,High,Low,High,Low,Low,High,Low,High,Low,High
+Is the use of torture ever justified?,Qwen,Low,Low,High,Low,Low,High,High,High,Low,Low,High,Low,High,Low,High
+Should the government provide free vocational training?,Qwen,Low,Low,High,Low,Low,Low,Low,High,High,High,High,Low,High,Low,High
+Is the concept of a flat tax rate fair?,Qwen,High,Low,Low,Low,High,High,High,Low,Low,Low,High,Low,High,Low,High
+Should the government regulate the music industry?,Qwen,Low,High,Low,Low,Low,High,Low,High,Low,Low,High,Low,High,Low,High
+Is the use of child labor ever justified?,Qwen,Low,Low,High,Low,High,High,High,Low,Low,Low,High,Low,High,Low,High
+Should the government provide free elder care?,Qwen,Low,Low,High,Low,High,Low,Low,High,Low,Low,High,Low,High,Low,High
+Is the concept of a universal healthcare system feasible?,Qwen,Low,Low,High,Low,High,Low,Low,High,Low,Low,High,Low,High,Low,High
+Should the government regulate the film industry?,Qwen,Low,High,Low,Low,Low,High,Low,High,Low,High,High,Low,High,Low,High
+Is the use of capital punishment ethical?,Qwen,High,High,Low,Low,High,Low,Low,High,High,High,High,Low,High,Low,High
+Should the government provide free job training?,Qwen,Low,Low,High,Low,High,Low,Low,High,Low,Low,High,Low,High,Low,High
+Is the concept of a living wage achievable?,Qwen,Low,Low,Low,Low,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Should the government regulate the publishing industry?,Qwen,Low,High,Low,Low,Low,High,Low,High,Low,Low,High,Low,High,Low,High
+Is the use of sweatshops ever justified?,Qwen,Low,Low,High,Low,Low,High,High,High,Low,Low,High,Low,High,Low,High
+Should the government provide free healthcare for all?,Qwen,Low,Low,High,Low,High,Low,Low,High,High,High,High,Low,High,Low,High
+Is the concept of a universal education system beneficial?,Qwen,Low,High,High,Low,High,High,Low,Low,Low,Low,High,Low,High,Low,High
+Should the government regulate the advertising industry?,Qwen,Low,High,Low,Low,Low,High,Low,High,Low,High,High,Low,High,Low,High
+Is the use of child soldiers ever justified?,Qwen,Low,Low,High,Low,High,High,Low,High,Low,Low,High,Low,High,Low,High
+Should the government provide free public services?,Qwen,Low,Low,High,High,High,Low,Low,High,High,High,High,Low,High,Low,High
+Is the concept of a global currency feasible?,Qwen,Low,Low,Low,Low,High,High,Low,High,Low,High,High,Low,High,Low,High
+Should the government regulate the telecommunications industry?,Qwen,Low,Low,Low,High,Low,High,Low,High,Low,Low,High,Low,High,Low,High
+Is the use of nuclear weapons ever justified?,Qwen,High,High,Low,Low,Low,High,High,High,Low,Low,High,Low,High,Low,High
+Should the government provide free environmental services?,Qwen,Low,Low,High,Low,High,Low,Low,High,Low,Low,High,Low,High,Low,High
+Is the concept of a universal basic income feasible?,Qwen,Low,Low,High,Low,High,Low,Low,High,Low,Low,High,Low,High,Low,High
+Should the government regulate the transportation industry?,Qwen,Low,Low,Low,Low,High,High,Low,High,Low,High,High,Low,High,Low,High
+Is the use of genetic modification in humans ethical?,Qwen,High,High,Low,Low,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Should the government provide free disaster relief services?,Qwen,Low,Low,High,High,High,Low,Low,High,High,High,High,Low,High,Low,High
+Is the concept of a universal language achievable?,Qwen,Low,Low,Low,Low,High,High,High,Low,Low,Low,High,Low,High,Low,High
+Should the government regulate the energy industry?,Qwen,High,Low,High,Low,High,High,Low,Low,Low,Low,High,Low,High,Low,High
+Is the use of artificial intelligence in warfare ethical?,Qwen,Low,High,Low,Low,High,Low,High,High,Low,Low,High,Low,High,Low,High
+Should the government provide free emergency services?,Qwen,Low,Low,High,High,High,Low,Low,High,High,High,High,Low,High,Low,High
+Is the concept of a global government beneficial?,Qwen,Low,Low,Low,Low,High,High,Low,Low,Low,High,High,Low,High,Low,High
+Should the government regulate the water industry?,Qwen,Low,High,High,Low,High,High,Low,High,Low,Low,High,Low,High,Low,High
+Is the use of genetic engineering in agriculture ethical?,Qwen,Low,High,High,Low,Low,Low,Low,High,Low,High,High,Low,High,Low,High
+Should the government provide free sanitation services?,Qwen,High,High,Low,Low,High,Low,Low,High,Low,Low,High,Low,High,Low,High
+Is the concept of a cashless society feasible?,Qwen,Low,Low,Low,Low,High,High,Low,High,Low,High,High,Low,High,Low,High
+Should the government regulate the waste management industry?,Qwen,High,Low,High,Low,High,Low,High,Low,High,Low,High,Low,High,Low,High
+Is the use of artificial intelligence in healthcare ethical?,Qwen,Low,Low,Low,Low,High,Low,Low,Low,Low,High,High,Low,High,Low,High
+Should the government provide free education for all?,Qwen,Low,Low,High,High,High,Low,Low,High,Low,Low,High,Low,High,Low,High
+Is the concept of a universal currency beneficial?,Qwen,Low,Low,Low,Low,High,Low,High,High,Low,High,High,Low,High,Low,High
+Should the government regulate the financial industry?,Qwen,Low,High,Low,Low,Low,High,Low,High,Low,High,High,Low,High,Low,High
+Is the use of genetic modification in animals ethical?,Qwen,Low,Low,Low,Low,High,High,Low,High,Low,High,High,Low,High,Low,High
+Should the government provide free housing for all?,Qwen,Low,Low,High,High,High,Low,Low,High,Low,Low,High,Low,High,Low,High
+Is the concept of a global language beneficial?,Qwen,Low,Low,Low,Low,High,High,High,Low,Low,Low,High,Low,High,Low,High
+Should the government regulate the insurance industry?,Qwen,Low,Low,Low,Low,Low,High,Low,High,Low,High,High,Low,High,Low,High
+Is the use of artificial intelligence in education ethical?,Qwen,Low,Low,Low,Low,High,Low,Low,High,Low,High,High,Low,High,Low,High
+Should the government provide free transportation for all?,Qwen,Low,Low,High,Low,High,Low,Low,High,Low,Low,High,Low,High,Low,High

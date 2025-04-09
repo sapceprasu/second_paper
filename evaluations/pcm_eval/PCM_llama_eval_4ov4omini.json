@@ -1,0 +1,36 @@
+{
+    "Exact Match Accuracy (EMA)": {
+        "Person_One": 3.17,
+        "Person_Two": 1.59
+    },
+    "Per-Trait Accuracy (PTA)": {
+        "Person_One": {
+            "Agreeableness": 77.78,
+            "Openness": 68.25,
+            "Conscientiousness": 53.97,
+            "Extraversion": 66.67,
+            "Neuroticism": 26.98
+        },
+        "Person_Two": {
+            "Agreeableness": 69.84,
+            "Openness": 65.08,
+            "Conscientiousness": 47.62,
+            "Extraversion": 69.84,
+            "Neuroticism": 30.16
+        }
+    },
+    "Speaker-Level Consistency (SLC)": {
+        "Overall": {
+            "Agreeableness": 82.54,
+            "Openness": 90.48,
+            "Conscientiousness": 65.08,
+            "Extraversion": 60.32,
+            "Neuroticism": 87.3
+        }
+    },
+    "description": {
+        "EMA": "Measures how often all five predicted traits exactly match the assigned traits.",
+        "PTA": "Measures accuracy per individual personality trait.",
+        "SLC": "Measures how similarly models assign personality traits to both speakers in a discourse."
+    }
+}

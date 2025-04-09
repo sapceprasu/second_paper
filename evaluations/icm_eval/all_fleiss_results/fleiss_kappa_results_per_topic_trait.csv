@@ -1,0 +1,506 @@
+Topic,Trait,Fleiss_Kappa_P1,Fleiss_Kappa_P2
+Should the death penalty be abolished?,Agreeableness,1.0,1.0
+Should the death penalty be abolished?,Openness,1.0,-0.3333333333333333
+Should the death penalty be abolished?,Conscientiousness,1.0,1.0
+Should the death penalty be abolished?,Extraversion,-0.3333333333333333,1.0
+Should the death penalty be abolished?,Neuroticism,-0.3333333333333333,-0.3333333333333333
+Is animal testing justified?,Agreeableness,1.0,1.0
+Is animal testing justified?,Openness,1.0,1.0
+Is animal testing justified?,Conscientiousness,1.0,1.0
+Is animal testing justified?,Extraversion,-0.3333333333333333,1.0
+Is animal testing justified?,Neuroticism,-0.3333333333333333,1.0
+Should climate change be a government priority?,Agreeableness,-0.3333333333333333,-0.3333333333333333
+Should climate change be a government priority?,Openness,1.0,1.0
+Should climate change be a government priority?,Conscientiousness,-0.33333333333333337,1.0
+Should climate change be a government priority?,Extraversion,-0.3333333333333333,1.0
+Should climate change be a government priority?,Neuroticism,-0.3333333333333333,-0.3333333333333333
+Is the school curriculum preparing students for real life?,Agreeableness,1.0,1.0
+Is the school curriculum preparing students for real life?,Openness,-0.3333333333333333,-0.3333333333333333
+Is the school curriculum preparing students for real life?,Conscientiousness,1.0,1.0
+Is the school curriculum preparing students for real life?,Extraversion,1.0,1.0
+Is the school curriculum preparing students for real life?,Neuroticism,-0.3333333333333333,1.0
+Should the voting age be lowered?,Agreeableness,1.0,1.0
+Should the voting age be lowered?,Openness,1.0,1.0
+Should the voting age be lowered?,Conscientiousness,1.0,1.0
+Should the voting age be lowered?,Extraversion,1.0,1.0
+Should the voting age be lowered?,Neuroticism,-0.3333333333333333,-0.33333333333333337
+Is social media more harmful than beneficial?,Agreeableness,-0.3333333333333333,1.0
+Is social media more harmful than beneficial?,Openness,-0.3333333333333333,-0.3333333333333333
+Is social media more harmful than beneficial?,Conscientiousness,1.0,-0.33333333333333337
+Is social media more harmful than beneficial?,Extraversion,1.0,1.0
+Is social media more harmful than beneficial?,Neuroticism,1.0,1.0
+Should genetically modified organisms (GMOs) be banned?,Agreeableness,-0.3333333333333333,1.0
+Should genetically modified organisms (GMOs) be banned?,Openness,-0.3333333333333333,1.0
+Should genetically modified organisms (GMOs) be banned?,Conscientiousness,1.0,1.0
+Should genetically modified organisms (GMOs) be banned?,Extraversion,1.0,1.0
+Should genetically modified organisms (GMOs) be banned?,Neuroticism,1.0,1.0
+Is a universal basic income a viable solution?,Agreeableness,1.0,1.0
+Is a universal basic income a viable solution?,Openness,1.0,1.0
+Is a universal basic income a viable solution?,Conscientiousness,1.0,1.0
+Is a universal basic income a viable solution?,Extraversion,-0.3333333333333333,-0.3333333333333333
+Is a universal basic income a viable solution?,Neuroticism,1.0,-0.33333333333333337
+Should the use of plastic be completely eliminated?,Agreeableness,1.0,1.0
+Should the use of plastic be completely eliminated?,Openness,1.0,1.0
+Should the use of plastic be completely eliminated?,Conscientiousness,1.0,1.0
+Should the use of plastic be completely eliminated?,Extraversion,-0.3333333333333333,-0.3333333333333333
+Should the use of plastic be completely eliminated?,Neuroticism,-0.3333333333333333,1.0
+Is homeschooling better than traditional schooling?,Agreeableness,1.0,1.0
+Is homeschooling better than traditional schooling?,Openness,1.0,1.0
+Is homeschooling better than traditional schooling?,Conscientiousness,-0.3333333333333333,1.0
+Is homeschooling better than traditional schooling?,Extraversion,-0.3333333333333333,1.0
+Is homeschooling better than traditional schooling?,Neuroticism,1.0,-0.3333333333333333
+Should the government regulate the internet?,Agreeableness,1.0,1.0
+Should the government regulate the internet?,Openness,-0.3333333333333333,-0.3333333333333333
+Should the government regulate the internet?,Conscientiousness,-0.3333333333333333,1.0
+Should the government regulate the internet?,Extraversion,1.0,1.0
+Should the government regulate the internet?,Neuroticism,1.0,1.0
+Is censorship ever justified?,Agreeableness,1.0,1.0
+Is censorship ever justified?,Openness,1.0,1.0
+Is censorship ever justified?,Conscientiousness,1.0,-0.3333333333333333
+Is censorship ever justified?,Extraversion,-0.3333333333333333,-0.3333333333333333
+Is censorship ever justified?,Neuroticism,1.0,1.0
+Should healthcare be free for everyone?,Agreeableness,1.0,1.0
+Should healthcare be free for everyone?,Openness,1.0,1.0
+Should healthcare be free for everyone?,Conscientiousness,1.0,1.0
+Should healthcare be free for everyone?,Extraversion,1.0,-0.3333333333333333
+Should healthcare be free for everyone?,Neuroticism,1.0,-0.3333333333333333
+Is the concept of marriage outdated?,Agreeableness,1.0,1.0
+Is the concept of marriage outdated?,Openness,-0.3333333333333333,-0.3333333333333333
+Is the concept of marriage outdated?,Conscientiousness,1.0,1.0
+Is the concept of marriage outdated?,Extraversion,1.0,1.0
+Is the concept of marriage outdated?,Neuroticism,1.0,1.0
+Should the legal drinking age be changed?,Agreeableness,-0.3333333333333333,1.0
+Should the legal drinking age be changed?,Openness,1.0,1.0
+Should the legal drinking age be changed?,Conscientiousness,1.0,1.0
+Should the legal drinking age be changed?,Extraversion,1.0,1.0
+Should the legal drinking age be changed?,Neuroticism,-0.3333333333333333,-0.33333333333333337
+Is capital punishment effective in deterring crime?,Agreeableness,1.0,1.0
+Is capital punishment effective in deterring crime?,Openness,1.0,1.0
+Is capital punishment effective in deterring crime?,Conscientiousness,1.0,-0.3333333333333333
+Is capital punishment effective in deterring crime?,Extraversion,1.0,1.0
+Is capital punishment effective in deterring crime?,Neuroticism,1.0,1.0
+Should the use of drones be regulated?,Agreeableness,-0.3333333333333333,-0.3333333333333333
+Should the use of drones be regulated?,Openness,-0.3333333333333333,1.0
+Should the use of drones be regulated?,Conscientiousness,1.0,-0.3333333333333333
+Should the use of drones be regulated?,Extraversion,1.0,-0.3333333333333333
+Should the use of drones be regulated?,Neuroticism,1.0,1.0
+Is the gig economy beneficial for workers?,Agreeableness,1.0,1.0
+Is the gig economy beneficial for workers?,Openness,1.0,1.0
+Is the gig economy beneficial for workers?,Conscientiousness,-0.3333333333333333,1.0
+Is the gig economy beneficial for workers?,Extraversion,1.0,1.0
+Is the gig economy beneficial for workers?,Neuroticism,1.0,-0.33333333333333337
+Should advertising to children be restricted?,Agreeableness,1.0,1.0
+Should advertising to children be restricted?,Openness,-0.33333333333333337,-0.3333333333333333
+Should advertising to children be restricted?,Conscientiousness,1.0,1.0
+Should advertising to children be restricted?,Extraversion,-0.3333333333333333,1.0
+Should advertising to children be restricted?,Neuroticism,-0.33333333333333337,1.0
+Is the current education system outdated?,Agreeableness,1.0,-0.3333333333333333
+Is the current education system outdated?,Openness,1.0,1.0
+Is the current education system outdated?,Conscientiousness,-0.3333333333333333,1.0
+Is the current education system outdated?,Extraversion,-0.3333333333333333,1.0
+Is the current education system outdated?,Neuroticism,-0.3333333333333333,-0.3333333333333333
+Should the government provide free internet access?,Agreeableness,1.0,1.0
+Should the government provide free internet access?,Openness,1.0,1.0
+Should the government provide free internet access?,Conscientiousness,1.0,1.0
+Should the government provide free internet access?,Extraversion,1.0,1.0
+Should the government provide free internet access?,Neuroticism,1.0,-0.3333333333333333
+Is the concept of a nuclear family still relevant?,Agreeableness,1.0,1.0
+Is the concept of a nuclear family still relevant?,Openness,1.0,1.0
+Is the concept of a nuclear family still relevant?,Conscientiousness,1.0,1.0
+Is the concept of a nuclear family still relevant?,Extraversion,1.0,1.0
+Is the concept of a nuclear family still relevant?,Neuroticism,1.0,1.0
+Should the use of fossil fuels be banned?,Agreeableness,1.0,1.0
+Should the use of fossil fuels be banned?,Openness,-0.33333333333333337,-0.3333333333333333
+Should the use of fossil fuels be banned?,Conscientiousness,-0.3333333333333333,1.0
+Should the use of fossil fuels be banned?,Extraversion,-0.33333333333333337,1.0
+Should the use of fossil fuels be banned?,Neuroticism,1.0,1.0
+Is the portrayal of violence in media harmful?,Agreeableness,1.0,1.0
+Is the portrayal of violence in media harmful?,Openness,-0.33333333333333337,1.0
+Is the portrayal of violence in media harmful?,Conscientiousness,1.0,-0.3333333333333333
+Is the portrayal of violence in media harmful?,Extraversion,1.0,1.0
+Is the portrayal of violence in media harmful?,Neuroticism,-0.33333333333333337,1.0
+Should the government control the media?,Agreeableness,1.0,-0.3333333333333333
+Should the government control the media?,Openness,1.0,1.0
+Should the government control the media?,Conscientiousness,1.0,-0.3333333333333333
+Should the government control the media?,Extraversion,1.0,1.0
+Should the government control the media?,Neuroticism,1.0,-0.33333333333333337
+Is the use of surveillance cameras an invasion of privacy?,Agreeableness,1.0,-0.3333333333333333
+Is the use of surveillance cameras an invasion of privacy?,Openness,-0.3333333333333333,-0.33333333333333337
+Is the use of surveillance cameras an invasion of privacy?,Conscientiousness,-0.3333333333333333,-0.3333333333333333
+Is the use of surveillance cameras an invasion of privacy?,Extraversion,1.0,1.0
+Is the use of surveillance cameras an invasion of privacy?,Neuroticism,1.0,1.0
+Should the government fund space exploration?,Agreeableness,1.0,1.0
+Should the government fund space exploration?,Openness,1.0,1.0
+Should the government fund space exploration?,Conscientiousness,-0.3333333333333333,1.0
+Should the government fund space exploration?,Extraversion,1.0,1.0
+Should the government fund space exploration?,Neuroticism,1.0,1.0
+Is the fashion industry contributing to body image issues?,Agreeableness,-0.3333333333333333,-0.3333333333333333
+Is the fashion industry contributing to body image issues?,Openness,-0.3333333333333333,1.0
+Is the fashion industry contributing to body image issues?,Conscientiousness,-0.3333333333333333,1.0
+Is the fashion industry contributing to body image issues?,Extraversion,1.0,1.0
+Is the fashion industry contributing to body image issues?,Neuroticism,1.0,1.0
+Should the use of performance-enhancing drugs be allowed in sports?,Agreeableness,-0.3333333333333333,1.0
+Should the use of performance-enhancing drugs be allowed in sports?,Openness,1.0,1.0
+Should the use of performance-enhancing drugs be allowed in sports?,Conscientiousness,1.0,1.0
+Should the use of performance-enhancing drugs be allowed in sports?,Extraversion,-0.3333333333333333,1.0
+Should the use of performance-enhancing drugs be allowed in sports?,Neuroticism,-0.33333333333333337,1.0
+Is the concept of a minimum wage outdated?,Agreeableness,1.0,1.0
+Is the concept of a minimum wage outdated?,Openness,1.0,1.0
+Is the concept of a minimum wage outdated?,Conscientiousness,-0.33333333333333337,-0.3333333333333333
+Is the concept of a minimum wage outdated?,Extraversion,1.0,1.0
+Is the concept of a minimum wage outdated?,Neuroticism,1.0,1.0
+Should the government regulate the food industry?,Agreeableness,-0.3333333333333333,1.0
+Should the government regulate the food industry?,Openness,-0.3333333333333333,-0.3333333333333333
+Should the government regulate the food industry?,Conscientiousness,-0.33333333333333337,1.0
+Should the government regulate the food industry?,Extraversion,-0.33333333333333337,1.0
+Should the government regulate the food industry?,Neuroticism,-0.33333333333333337,-0.3333333333333333
+Is the use of animals in entertainment ethical?,Agreeableness,-0.33333333333333337,-0.3333333333333333
+Is the use of animals in entertainment ethical?,Openness,1.0,-0.3333333333333333
+Is the use of animals in entertainment ethical?,Conscientiousness,1.0,1.0
+Is the use of animals in entertainment ethical?,Extraversion,1.0,1.0
+Is the use of animals in entertainment ethical?,Neuroticism,-0.3333333333333333,-0.33333333333333337
+Should the government provide free childcare?,Agreeableness,1.0,1.0
+Should the government provide free childcare?,Openness,1.0,1.0
+Should the government provide free childcare?,Conscientiousness,1.0,1.0
+Should the government provide free childcare?,Extraversion,1.0,-0.3333333333333333
+Should the government provide free childcare?,Neuroticism,-0.33333333333333337,-0.3333333333333333
+Is the concept of a work-life balance achievable?,Agreeableness,-0.33333333333333337,1.0
+Is the concept of a work-life balance achievable?,Openness,-0.3333333333333333,-0.3333333333333333
+Is the concept of a work-life balance achievable?,Conscientiousness,1.0,-0.3333333333333333
+Is the concept of a work-life balance achievable?,Extraversion,1.0,1.0
+Is the concept of a work-life balance achievable?,Neuroticism,1.0,1.0
+Should the government regulate the housing market?,Agreeableness,-0.33333333333333337,-0.3333333333333333
+Should the government regulate the housing market?,Openness,-0.3333333333333333,-0.3333333333333333
+Should the government regulate the housing market?,Conscientiousness,1.0,1.0
+Should the government regulate the housing market?,Extraversion,1.0,-0.3333333333333333
+Should the government regulate the housing market?,Neuroticism,-0.3333333333333333,-0.3333333333333333
+Is the use of artificial intelligence ethical?,Agreeableness,1.0,1.0
+Is the use of artificial intelligence ethical?,Openness,1.0,1.0
+Is the use of artificial intelligence ethical?,Conscientiousness,-0.3333333333333333,1.0
+Is the use of artificial intelligence ethical?,Extraversion,1.0,1.0
+Is the use of artificial intelligence ethical?,Neuroticism,1.0,1.0
+Should the government provide free higher education?,Agreeableness,1.0,1.0
+Should the government provide free higher education?,Openness,1.0,1.0
+Should the government provide free higher education?,Conscientiousness,1.0,1.0
+Should the government provide free higher education?,Extraversion,1.0,-0.3333333333333333
+Should the government provide free higher education?,Neuroticism,1.0,-0.3333333333333333
+Is the concept of a universal language beneficial?,Agreeableness,-0.3333333333333333,-0.3333333333333333
+Is the concept of a universal language beneficial?,Openness,1.0,1.0
+Is the concept of a universal language beneficial?,Conscientiousness,-0.33333333333333337,1.0
+Is the concept of a universal language beneficial?,Extraversion,1.0,1.0
+Is the concept of a universal language beneficial?,Neuroticism,1.0,-0.3333333333333333
+Should the government regulate the pharmaceutical industry?,Agreeableness,-0.3333333333333333,-0.3333333333333333
+Should the government regulate the pharmaceutical industry?,Openness,-0.3333333333333333,1.0
+Should the government regulate the pharmaceutical industry?,Conscientiousness,-0.3333333333333333,-0.3333333333333333
+Should the government regulate the pharmaceutical industry?,Extraversion,1.0,1.0
+Should the government regulate the pharmaceutical industry?,Neuroticism,-0.3333333333333333,1.0
+Is the use of nuclear energy justified?,Agreeableness,-0.3333333333333333,1.0
+Is the use of nuclear energy justified?,Openness,-0.33333333333333337,1.0
+Is the use of nuclear energy justified?,Conscientiousness,1.0,1.0
+Is the use of nuclear energy justified?,Extraversion,1.0,-0.3333333333333333
+Is the use of nuclear energy justified?,Neuroticism,1.0,1.0
+Should the government provide free public transportation?,Agreeableness,1.0,1.0
+Should the government provide free public transportation?,Openness,1.0,1.0
+Should the government provide free public transportation?,Conscientiousness,1.0,1.0
+Should the government provide free public transportation?,Extraversion,1.0,1.0
+Should the government provide free public transportation?,Neuroticism,-0.33333333333333337,-0.3333333333333333
+Is the concept of a cashless society beneficial?,Agreeableness,-0.3333333333333333,-0.3333333333333333
+Is the concept of a cashless society beneficial?,Openness,-0.3333333333333333,1.0
+Is the concept of a cashless society beneficial?,Conscientiousness,-0.33333333333333337,-0.3333333333333333
+Is the concept of a cashless society beneficial?,Extraversion,1.0,1.0
+Is the concept of a cashless society beneficial?,Neuroticism,1.0,1.0
+Should the government regulate the gaming industry?,Agreeableness,-0.3333333333333333,-0.3333333333333333
+Should the government regulate the gaming industry?,Openness,-0.33333333333333337,-0.33333333333333337
+Should the government regulate the gaming industry?,Conscientiousness,-0.3333333333333333,-0.3333333333333333
+Should the government regulate the gaming industry?,Extraversion,1.0,-0.3333333333333333
+Should the government regulate the gaming industry?,Neuroticism,-0.33333333333333337,1.0
+Is the use of genetic engineering ethical?,Agreeableness,1.0,-0.33333333333333337
+Is the use of genetic engineering ethical?,Openness,1.0,-0.3333333333333333
+Is the use of genetic engineering ethical?,Conscientiousness,-0.3333333333333333,-0.3333333333333333
+Is the use of genetic engineering ethical?,Extraversion,1.0,1.0
+Is the use of genetic engineering ethical?,Neuroticism,1.0,1.0
+Should the government provide free mental health services?,Agreeableness,1.0,1.0
+Should the government provide free mental health services?,Openness,1.0,1.0
+Should the government provide free mental health services?,Conscientiousness,1.0,1.0
+Should the government provide free mental health services?,Extraversion,1.0,-0.3333333333333333
+Should the government provide free mental health services?,Neuroticism,-0.3333333333333333,-0.3333333333333333
+Is the concept of a global government feasible?,Agreeableness,1.0,1.0
+Is the concept of a global government feasible?,Openness,1.0,1.0
+Is the concept of a global government feasible?,Conscientiousness,1.0,1.0
+Is the concept of a global government feasible?,Extraversion,1.0,1.0
+Is the concept of a global government feasible?,Neuroticism,1.0,-0.33333333333333337
+Should the government regulate the fashion industry?,Agreeableness,1.0,1.0
+Should the government regulate the fashion industry?,Openness,-0.33333333333333337,1.0
+Should the government regulate the fashion industry?,Conscientiousness,1.0,1.0
+Should the government regulate the fashion industry?,Extraversion,1.0,1.0
+Should the government regulate the fashion industry?,Neuroticism,-0.3333333333333333,1.0
+Is the use of cloning ethical?,Agreeableness,1.0,-0.33333333333333337
+Is the use of cloning ethical?,Openness,1.0,1.0
+Is the use of cloning ethical?,Conscientiousness,1.0,1.0
+Is the use of cloning ethical?,Extraversion,1.0,1.0
+Is the use of cloning ethical?,Neuroticism,1.0,1.0
+Should the government provide free legal services?,Agreeableness,1.0,1.0
+Should the government provide free legal services?,Openness,1.0,1.0
+Should the government provide free legal services?,Conscientiousness,1.0,1.0
+Should the government provide free legal services?,Extraversion,1.0,-0.3333333333333333
+Should the government provide free legal services?,Neuroticism,1.0,-0.33333333333333337
+Is the concept of a merit-based immigration system fair?,Agreeableness,-0.3333333333333333,-0.3333333333333333
+Is the concept of a merit-based immigration system fair?,Openness,1.0,-0.3333333333333333
+Is the concept of a merit-based immigration system fair?,Conscientiousness,-0.3333333333333333,1.0
+Is the concept of a merit-based immigration system fair?,Extraversion,1.0,1.0
+Is the concept of a merit-based immigration system fair?,Neuroticism,1.0,1.0
+Should the government regulate the tourism industry?,Agreeableness,1.0,1.0
+Should the government regulate the tourism industry?,Openness,1.0,-0.3333333333333333
+Should the government regulate the tourism industry?,Conscientiousness,1.0,1.0
+Should the government regulate the tourism industry?,Extraversion,1.0,1.0
+Should the government regulate the tourism industry?,Neuroticism,1.0,1.0
+Is the use of corporal punishment justified?,Agreeableness,1.0,1.0
+Is the use of corporal punishment justified?,Openness,1.0,1.0
+Is the use of corporal punishment justified?,Conscientiousness,1.0,-0.3333333333333333
+Is the use of corporal punishment justified?,Extraversion,1.0,1.0
+Is the use of corporal punishment justified?,Neuroticism,-0.3333333333333333,1.0
+Should the government provide free housing?,Agreeableness,1.0,1.0
+Should the government provide free housing?,Openness,1.0,-0.3333333333333333
+Should the government provide free housing?,Conscientiousness,1.0,1.0
+Should the government provide free housing?,Extraversion,1.0,-0.3333333333333333
+Should the government provide free housing?,Neuroticism,-0.3333333333333333,-0.33333333333333337
+Is the concept of a digital currency beneficial?,Agreeableness,1.0,-0.3333333333333333
+Is the concept of a digital currency beneficial?,Openness,1.0,1.0
+Is the concept of a digital currency beneficial?,Conscientiousness,1.0,1.0
+Is the concept of a digital currency beneficial?,Extraversion,1.0,1.0
+Is the concept of a digital currency beneficial?,Neuroticism,-0.33333333333333337,1.0
+Should the government regulate the art industry?,Agreeableness,-0.3333333333333333,1.0
+Should the government regulate the art industry?,Openness,1.0,-0.3333333333333333
+Should the government regulate the art industry?,Conscientiousness,1.0,1.0
+Should the government regulate the art industry?,Extraversion,1.0,1.0
+Should the government regulate the art industry?,Neuroticism,1.0,1.0
+Is the use of torture ever justified?,Agreeableness,1.0,1.0
+Is the use of torture ever justified?,Openness,1.0,1.0
+Is the use of torture ever justified?,Conscientiousness,1.0,1.0
+Is the use of torture ever justified?,Extraversion,-0.33333333333333337,1.0
+Is the use of torture ever justified?,Neuroticism,-0.3333333333333333,1.0
+Should the government provide free vocational training?,Agreeableness,1.0,1.0
+Should the government provide free vocational training?,Openness,1.0,1.0
+Should the government provide free vocational training?,Conscientiousness,1.0,1.0
+Should the government provide free vocational training?,Extraversion,1.0,-0.3333333333333333
+Should the government provide free vocational training?,Neuroticism,-0.33333333333333337,-0.33333333333333337
+Is the concept of a flat tax rate fair?,Agreeableness,-0.3333333333333333,-0.33333333333333337
+Is the concept of a flat tax rate fair?,Openness,-0.3333333333333333,-0.33333333333333337
+Is the concept of a flat tax rate fair?,Conscientiousness,-0.33333333333333337,-0.3333333333333333
+Is the concept of a flat tax rate fair?,Extraversion,-0.3333333333333333,1.0
+Is the concept of a flat tax rate fair?,Neuroticism,1.0,1.0
+Should the government regulate the music industry?,Agreeableness,1.0,1.0
+Should the government regulate the music industry?,Openness,1.0,1.0
+Should the government regulate the music industry?,Conscientiousness,-0.3333333333333333,1.0
+Should the government regulate the music industry?,Extraversion,1.0,1.0
+Should the government regulate the music industry?,Neuroticism,-0.3333333333333333,-0.3333333333333333
+Is the use of child labor ever justified?,Agreeableness,1.0,1.0
+Is the use of child labor ever justified?,Openness,1.0,1.0
+Is the use of child labor ever justified?,Conscientiousness,1.0,-0.3333333333333333
+Is the use of child labor ever justified?,Extraversion,1.0,1.0
+Is the use of child labor ever justified?,Neuroticism,1.0,1.0
+Should the government provide free elder care?,Agreeableness,1.0,1.0
+Should the government provide free elder care?,Openness,1.0,1.0
+Should the government provide free elder care?,Conscientiousness,1.0,1.0
+Should the government provide free elder care?,Extraversion,-0.3333333333333333,1.0
+Should the government provide free elder care?,Neuroticism,1.0,-0.3333333333333333
+Is the concept of a universal healthcare system feasible?,Agreeableness,1.0,1.0
+Is the concept of a universal healthcare system feasible?,Openness,1.0,1.0
+Is the concept of a universal healthcare system feasible?,Conscientiousness,1.0,1.0
+Is the concept of a universal healthcare system feasible?,Extraversion,1.0,1.0
+Is the concept of a universal healthcare system feasible?,Neuroticism,1.0,-0.3333333333333333
+Should the government regulate the film industry?,Agreeableness,1.0,1.0
+Should the government regulate the film industry?,Openness,1.0,1.0
+Should the government regulate the film industry?,Conscientiousness,1.0,1.0
+Should the government regulate the film industry?,Extraversion,-0.3333333333333333,1.0
+Should the government regulate the film industry?,Neuroticism,-0.3333333333333333,-0.3333333333333333
+Is the use of capital punishment ethical?,Agreeableness,-0.3333333333333333,1.0
+Is the use of capital punishment ethical?,Openness,1.0,1.0
+Is the use of capital punishment ethical?,Conscientiousness,-0.33333333333333337,1.0
+Is the use of capital punishment ethical?,Extraversion,1.0,-0.3333333333333333
+Is the use of capital punishment ethical?,Neuroticism,-0.33333333333333337,-0.3333333333333333
+Should the government provide free job training?,Agreeableness,1.0,1.0
+Should the government provide free job training?,Openness,1.0,1.0
+Should the government provide free job training?,Conscientiousness,1.0,1.0
+Should the government provide free job training?,Extraversion,1.0,1.0
+Should the government provide free job training?,Neuroticism,1.0,1.0
+Is the concept of a living wage achievable?,Agreeableness,1.0,1.0
+Is the concept of a living wage achievable?,Openness,1.0,1.0
+Is the concept of a living wage achievable?,Conscientiousness,-0.3333333333333333,-0.3333333333333333
+Is the concept of a living wage achievable?,Extraversion,1.0,1.0
+Is the concept of a living wage achievable?,Neuroticism,1.0,1.0
+Should the government regulate the publishing industry?,Agreeableness,1.0,1.0
+Should the government regulate the publishing industry?,Openness,1.0,-0.3333333333333333
+Should the government regulate the publishing industry?,Conscientiousness,-0.3333333333333333,1.0
+Should the government regulate the publishing industry?,Extraversion,1.0,1.0
+Should the government regulate the publishing industry?,Neuroticism,-0.3333333333333333,1.0
+Is the use of sweatshops ever justified?,Agreeableness,1.0,1.0
+Is the use of sweatshops ever justified?,Openness,1.0,1.0
+Is the use of sweatshops ever justified?,Conscientiousness,1.0,1.0
+Is the use of sweatshops ever justified?,Extraversion,1.0,1.0
+Is the use of sweatshops ever justified?,Neuroticism,-0.33333333333333337,1.0
+Should the government provide free healthcare for all?,Agreeableness,1.0,1.0
+Should the government provide free healthcare for all?,Openness,1.0,1.0
+Should the government provide free healthcare for all?,Conscientiousness,1.0,1.0
+Should the government provide free healthcare for all?,Extraversion,1.0,-0.3333333333333333
+Should the government provide free healthcare for all?,Neuroticism,1.0,-0.33333333333333337
+Is the concept of a universal education system beneficial?,Agreeableness,1.0,-0.3333333333333333
+Is the concept of a universal education system beneficial?,Openness,-0.3333333333333333,-0.3333333333333333
+Is the concept of a universal education system beneficial?,Conscientiousness,-0.3333333333333333,-0.33333333333333337
+Is the concept of a universal education system beneficial?,Extraversion,1.0,1.0
+Is the concept of a universal education system beneficial?,Neuroticism,1.0,1.0
+Should the government regulate the advertising industry?,Agreeableness,1.0,1.0
+Should the government regulate the advertising industry?,Openness,-0.3333333333333333,-0.3333333333333333
+Should the government regulate the advertising industry?,Conscientiousness,1.0,1.0
+Should the government regulate the advertising industry?,Extraversion,-0.33333333333333337,1.0
+Should the government regulate the advertising industry?,Neuroticism,-0.3333333333333333,-0.33333333333333337
+Is the use of child soldiers ever justified?,Agreeableness,1.0,1.0
+Is the use of child soldiers ever justified?,Openness,1.0,-0.3333333333333333
+Is the use of child soldiers ever justified?,Conscientiousness,-0.3333333333333333,1.0
+Is the use of child soldiers ever justified?,Extraversion,-0.3333333333333333,1.0
+Is the use of child soldiers ever justified?,Neuroticism,1.0,1.0
+Should the government provide free public services?,Agreeableness,1.0,1.0
+Should the government provide free public services?,Openness,1.0,1.0
+Should the government provide free public services?,Conscientiousness,1.0,1.0
+Should the government provide free public services?,Extraversion,-0.3333333333333333,-0.3333333333333333
+Should the government provide free public services?,Neuroticism,1.0,-0.3333333333333333
+Is the concept of a global currency feasible?,Agreeableness,1.0,-0.3333333333333333
+Is the concept of a global currency feasible?,Openness,1.0,1.0
+Is the concept of a global currency feasible?,Conscientiousness,-0.3333333333333333,1.0
+Is the concept of a global currency feasible?,Extraversion,1.0,-0.3333333333333333
+Is the concept of a global currency feasible?,Neuroticism,1.0,1.0
+Should the government regulate the telecommunications industry?,Agreeableness,1.0,1.0
+Should the government regulate the telecommunications industry?,Openness,-0.33333333333333337,-0.3333333333333333
+Should the government regulate the telecommunications industry?,Conscientiousness,1.0,1.0
+Should the government regulate the telecommunications industry?,Extraversion,1.0,1.0
+Should the government regulate the telecommunications industry?,Neuroticism,-0.33333333333333337,1.0
+Is the use of nuclear weapons ever justified?,Agreeableness,-0.3333333333333333,-0.3333333333333333
+Is the use of nuclear weapons ever justified?,Openness,-0.3333333333333333,1.0
+Is the use of nuclear weapons ever justified?,Conscientiousness,-0.3333333333333333,1.0
+Is the use of nuclear weapons ever justified?,Extraversion,-0.33333333333333337,1.0
+Is the use of nuclear weapons ever justified?,Neuroticism,1.0,-0.33333333333333337
+Should the government provide free environmental services?,Agreeableness,1.0,1.0
+Should the government provide free environmental services?,Openness,1.0,1.0
+Should the government provide free environmental services?,Conscientiousness,1.0,1.0
+Should the government provide free environmental services?,Extraversion,1.0,1.0
+Should the government provide free environmental services?,Neuroticism,-0.33333333333333337,1.0
+Is the concept of a universal basic income feasible?,Agreeableness,1.0,1.0
+Is the concept of a universal basic income feasible?,Openness,1.0,1.0
+Is the concept of a universal basic income feasible?,Conscientiousness,1.0,1.0
+Is the concept of a universal basic income feasible?,Extraversion,1.0,1.0
+Is the concept of a universal basic income feasible?,Neuroticism,1.0,-0.3333333333333333
+Should the government regulate the transportation industry?,Agreeableness,1.0,1.0
+Should the government regulate the transportation industry?,Openness,1.0,-0.3333333333333333
+Should the government regulate the transportation industry?,Conscientiousness,1.0,1.0
+Should the government regulate the transportation industry?,Extraversion,-0.3333333333333333,1.0
+Should the government regulate the transportation industry?,Neuroticism,1.0,-0.3333333333333333
+Is the use of genetic modification in humans ethical?,Agreeableness,-0.3333333333333333,-0.3333333333333333
+Is the use of genetic modification in humans ethical?,Openness,-0.33333333333333337,-0.3333333333333333
+Is the use of genetic modification in humans ethical?,Conscientiousness,-0.3333333333333333,1.0
+Is the use of genetic modification in humans ethical?,Extraversion,1.0,1.0
+Is the use of genetic modification in humans ethical?,Neuroticism,1.0,1.0
+Should the government provide free disaster relief services?,Agreeableness,1.0,1.0
+Should the government provide free disaster relief services?,Openness,1.0,1.0
+Should the government provide free disaster relief services?,Conscientiousness,1.0,1.0
+Should the government provide free disaster relief services?,Extraversion,-0.3333333333333333,-0.3333333333333333
+Should the government provide free disaster relief services?,Neuroticism,1.0,-0.33333333333333337
+Is the concept of a universal language achievable?,Agreeableness,1.0,-0.33333333333333337
+Is the concept of a universal language achievable?,Openness,1.0,-0.3333333333333333
+Is the concept of a universal language achievable?,Conscientiousness,1.0,-0.3333333333333333
+Is the concept of a universal language achievable?,Extraversion,1.0,1.0
+Is the concept of a universal language achievable?,Neuroticism,1.0,-0.3333333333333333
+Should the government regulate the energy industry?,Agreeableness,-0.3333333333333333,-0.3333333333333333
+Should the government regulate the energy industry?,Openness,-0.3333333333333333,-0.3333333333333333
+Should the government regulate the energy industry?,Conscientiousness,1.0,-0.33333333333333337
+Should the government regulate the energy industry?,Extraversion,-0.3333333333333333,1.0
+Should the government regulate the energy industry?,Neuroticism,-0.3333333333333333,1.0
+Is the use of artificial intelligence in warfare ethical?,Agreeableness,1.0,-0.3333333333333333
+Is the use of artificial intelligence in warfare ethical?,Openness,-0.3333333333333333,1.0
+Is the use of artificial intelligence in warfare ethical?,Conscientiousness,-0.3333333333333333,1.0
+Is the use of artificial intelligence in warfare ethical?,Extraversion,1.0,1.0
+Is the use of artificial intelligence in warfare ethical?,Neuroticism,1.0,1.0
+Should the government provide free emergency services?,Agreeableness,1.0,1.0
+Should the government provide free emergency services?,Openness,1.0,1.0
+Should the government provide free emergency services?,Conscientiousness,1.0,1.0
+Should the government provide free emergency services?,Extraversion,-0.3333333333333333,-0.3333333333333333
+Should the government provide free emergency services?,Neuroticism,-0.3333333333333333,-0.3333333333333333
+Is the concept of a global government beneficial?,Agreeableness,1.0,-0.3333333333333333
+Is the concept of a global government beneficial?,Openness,1.0,1.0
+Is the concept of a global government beneficial?,Conscientiousness,-0.3333333333333333,-0.3333333333333333
+Is the concept of a global government beneficial?,Extraversion,1.0,1.0
+Is the concept of a global government beneficial?,Neuroticism,-0.3333333333333333,-0.3333333333333333
+Should the government regulate the water industry?,Agreeableness,1.0,1.0
+Should the government regulate the water industry?,Openness,-0.3333333333333333,-0.3333333333333333
+Should the government regulate the water industry?,Conscientiousness,-0.33333333333333337,1.0
+Should the government regulate the water industry?,Extraversion,1.0,1.0
+Should the government regulate the water industry?,Neuroticism,1.0,-0.3333333333333333
+Is the use of genetic engineering in agriculture ethical?,Agreeableness,-0.3333333333333333,-0.33333333333333337
+Is the use of genetic engineering in agriculture ethical?,Openness,1.0,-0.33333333333333337
+Is the use of genetic engineering in agriculture ethical?,Conscientiousness,1.0,1.0
+Is the use of genetic engineering in agriculture ethical?,Extraversion,1.0,1.0
+Is the use of genetic engineering in agriculture ethical?,Neuroticism,-0.33333333333333337,-0.3333333333333333
+Should the government provide free sanitation services?,Agreeableness,-0.3333333333333333,1.0
+Should the government provide free sanitation services?,Openness,-0.3333333333333333,-0.3333333333333333
+Should the government provide free sanitation services?,Conscientiousness,-0.33333333333333337,1.0
+Should the government provide free sanitation services?,Extraversion,1.0,1.0
+Should the government provide free sanitation services?,Neuroticism,1.0,1.0
+Is the concept of a cashless society feasible?,Agreeableness,1.0,-0.3333333333333333
+Is the concept of a cashless society feasible?,Openness,-0.3333333333333333,-0.33333333333333337
+Is the concept of a cashless society feasible?,Conscientiousness,-0.3333333333333333,1.0
+Is the concept of a cashless society feasible?,Extraversion,1.0,1.0
+Is the concept of a cashless society feasible?,Neuroticism,1.0,1.0
+Should the government regulate the waste management industry?,Agreeableness,-0.33333333333333337,1.0
+Should the government regulate the waste management industry?,Openness,-0.33333333333333337,1.0
+Should the government regulate the waste management industry?,Conscientiousness,1.0,-0.3333333333333333
+Should the government regulate the waste management industry?,Extraversion,1.0,-0.3333333333333333
+Should the government regulate the waste management industry?,Neuroticism,-0.3333333333333333,-0.3333333333333333
+Is the use of artificial intelligence in healthcare ethical?,Agreeableness,1.0,1.0
+Is the use of artificial intelligence in healthcare ethical?,Openness,1.0,1.0
+Is the use of artificial intelligence in healthcare ethical?,Conscientiousness,-0.3333333333333333,-0.3333333333333333
+Is the use of artificial intelligence in healthcare ethical?,Extraversion,1.0,1.0
+Is the use of artificial intelligence in healthcare ethical?,Neuroticism,1.0,1.0
+Should the government provide free education for all?,Agreeableness,1.0,1.0
+Should the government provide free education for all?,Openness,1.0,1.0
+Should the government provide free education for all?,Conscientiousness,1.0,1.0
+Should the government provide free education for all?,Extraversion,-0.3333333333333333,1.0
+Should the government provide free education for all?,Neuroticism,-0.3333333333333333,1.0
+Is the concept of a universal currency beneficial?,Agreeableness,1.0,-0.3333333333333333
+Is the concept of a universal currency beneficial?,Openness,1.0,-0.3333333333333333
+Is the concept of a universal currency beneficial?,Conscientiousness,-0.3333333333333333,1.0
+Is the concept of a universal currency beneficial?,Extraversion,1.0,1.0
+Is the concept of a universal currency beneficial?,Neuroticism,1.0,1.0
+Should the government regulate the financial industry?,Agreeableness,1.0,1.0
+Should the government regulate the financial industry?,Openness,-0.3333333333333333,-0.3333333333333333
+Should the government regulate the financial industry?,Conscientiousness,-0.3333333333333333,1.0
+Should the government regulate the financial industry?,Extraversion,-0.33333333333333337,1.0
+Should the government regulate the financial industry?,Neuroticism,-0.33333333333333337,-0.3333333333333333
+Is the use of genetic modification in animals ethical?,Agreeableness,1.0,-0.3333333333333333
+Is the use of genetic modification in animals ethical?,Openness,1.0,1.0
+Is the use of genetic modification in animals ethical?,Conscientiousness,-0.3333333333333333,1.0
+Is the use of genetic modification in animals ethical?,Extraversion,1.0,1.0
+Is the use of genetic modification in animals ethical?,Neuroticism,1.0,1.0
+Should the government provide free housing for all?,Agreeableness,1.0,1.0
+Should the government provide free housing for all?,Openness,1.0,1.0
+Should the government provide free housing for all?,Conscientiousness,1.0,1.0
+Should the government provide free housing for all?,Extraversion,-0.3333333333333333,1.0
+Should the government provide free housing for all?,Neuroticism,-0.3333333333333333,1.0
+Is the concept of a global language beneficial?,Agreeableness,1.0,1.0
+Is the concept of a global language beneficial?,Openness,-0.3333333333333333,1.0
+Is the concept of a global language beneficial?,Conscientiousness,-0.3333333333333333,-0.33333333333333337
+Is the concept of a global language beneficial?,Extraversion,1.0,1.0
+Is the concept of a global language beneficial?,Neuroticism,1.0,1.0
+Should the government regulate the insurance industry?,Agreeableness,1.0,1.0
+Should the government regulate the insurance industry?,Openness,1.0,-0.3333333333333333
+Should the government regulate the insurance industry?,Conscientiousness,-0.3333333333333333,1.0
+Should the government regulate the insurance industry?,Extraversion,-0.3333333333333333,1.0
+Should the government regulate the insurance industry?,Neuroticism,-0.33333333333333337,-0.3333333333333333
+Is the use of artificial intelligence in education ethical?,Agreeableness,1.0,1.0
+Is the use of artificial intelligence in education ethical?,Openness,1.0,1.0
+Is the use of artificial intelligence in education ethical?,Conscientiousness,-0.3333333333333333,1.0
+Is the use of artificial intelligence in education ethical?,Extraversion,1.0,1.0
+Is the use of artificial intelligence in education ethical?,Neuroticism,1.0,1.0
+Should the government provide free transportation for all?,Agreeableness,1.0,1.0
+Should the government provide free transportation for all?,Openness,1.0,1.0
+Should the government provide free transportation for all?,Conscientiousness,1.0,1.0
+Should the government provide free transportation for all?,Extraversion,1.0,1.0
+Should the government provide free transportation for all?,Neuroticism,1.0,-0.33333333333333337

@@ -1,0 +1,506 @@
+topic,trait,assigned_trait,GPT-4o_P1,GPT-4o_P2,GPT-40-mini_P1,GPT-40-mini_P2,LLaMA_P1,LLaMA_P2,Qwen_P1,Qwen_P2
+Should the death penalty be abolished?,Agreeableness,High,Low,High,Low,High,Low,Low,Low,High
+Should the death penalty be abolished?,Openness,Low,Low,High,Low,High,Low,Low,Low,Low
+Should the death penalty be abolished?,Conscientiousness,High,High,High,High,High,Low,Low,High,High
+Should the death penalty be abolished?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Should the death penalty be abolished?,Neuroticism,High,Low,Low,Low,Low,Low,Low,High,High
+Is animal testing justified?,Agreeableness,High,Low,High,Low,High,Low,Low,Low,High
+Is animal testing justified?,Openness,Low,Low,High,Low,High,Low,Low,Low,High
+Is animal testing justified?,Conscientiousness,High,High,High,High,High,Low,Low,High,High
+Is animal testing justified?,Extraversion,Low,Low,Low,Low,Low,Low,Low,High,Low
+Is animal testing justified?,Neuroticism,High,Low,Low,Low,Low,Low,Low,High,Low
+Should climate change be a government priority?,Agreeableness,High,Low,Low,Low,Low,Low,Low,High,High
+Should climate change be a government priority?,Openness,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Should climate change be a government priority?,Conscientiousness,High,High,High,High,High,Low,Low,Low,High
+Should climate change be a government priority?,Extraversion,Low,Low,Low,Low,Low,Low,Low,High,Low
+Should climate change be a government priority?,Neuroticism,High,High,Low,Low,Low,Low,Low,High,Low
+Is the school curriculum preparing students for real life?,Agreeableness,High,Low,High,Low,High,Low,Low,Low,High
+Is the school curriculum preparing students for real life?,Openness,Low,High,High,High,High,Low,Low,Low,Low
+Is the school curriculum preparing students for real life?,Conscientiousness,High,High,High,High,High,Low,Low,High,High
+Is the school curriculum preparing students for real life?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Is the school curriculum preparing students for real life?,Neuroticism,High,High,Low,Low,Low,Low,Low,High,Low
+Should the voting age be lowered?,Agreeableness,High,Low,Low,Low,Low,Low,Low,Low,Low
+Should the voting age be lowered?,Openness,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Should the voting age be lowered?,Conscientiousness,High,High,High,High,High,Low,Low,High,High
+Should the voting age be lowered?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Should the voting age be lowered?,Neuroticism,High,High,High,High,Low,Low,Low,Low,Low
+Is social media more harmful than beneficial?,Agreeableness,High,Low,Low,Low,Low,Low,Low,High,Low
+Is social media more harmful than beneficial?,Openness,Low,Low,Low,Low,High,Low,Low,High,Low
+Is social media more harmful than beneficial?,Conscientiousness,High,Low,High,Low,Low,Low,Low,Low,Low
+Is social media more harmful than beneficial?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Is social media more harmful than beneficial?,Neuroticism,High,High,High,High,High,Low,Low,High,High
+Should genetically modified organisms (GMOs) be banned?,Agreeableness,High,Low,High,Low,High,Low,Low,High,High
+Should genetically modified organisms (GMOs) be banned?,Openness,Low,Low,High,High,High,Low,Low,Low,High
+Should genetically modified organisms (GMOs) be banned?,Conscientiousness,High,High,High,High,High,Low,Low,High,High
+Should genetically modified organisms (GMOs) be banned?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Should genetically modified organisms (GMOs) be banned?,Neuroticism,High,High,Low,High,Low,Low,Low,High,Low
+Is a universal basic income a viable solution?,Agreeableness,High,Low,Low,Low,Low,Low,Low,Low,Low
+Is a universal basic income a viable solution?,Openness,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Is a universal basic income a viable solution?,Conscientiousness,High,High,High,High,High,Low,Low,High,High
+Is a universal basic income a viable solution?,Extraversion,Low,High,Low,Low,Low,Low,Low,Low,High
+Is a universal basic income a viable solution?,Neuroticism,High,High,High,High,Low,Low,Low,High,High
+Should the use of plastic be completely eliminated?,Agreeableness,High,Low,Low,Low,Low,Low,Low,Low,Low
+Should the use of plastic be completely eliminated?,Openness,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Should the use of plastic be completely eliminated?,Conscientiousness,High,High,High,High,High,Low,Low,High,High
+Should the use of plastic be completely eliminated?,Extraversion,Low,Low,Low,Low,Low,Low,Low,High,High
+Should the use of plastic be completely eliminated?,Neuroticism,High,High,Low,Low,Low,Low,Low,Low,Low
+Is homeschooling better than traditional schooling?,Agreeableness,High,Low,Low,Low,Low,Low,Low,Low,Low
+Is homeschooling better than traditional schooling?,Openness,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Is homeschooling better than traditional schooling?,Conscientiousness,High,High,High,High,High,Low,Low,Low,High
+Is homeschooling better than traditional schooling?,Extraversion,Low,High,Low,Low,Low,Low,Low,Low,Low
+Is homeschooling better than traditional schooling?,Neuroticism,High,High,High,High,High,Low,Low,High,Low
+Should the government regulate the internet?,Agreeableness,High,Low,High,Low,High,Low,Low,Low,High
+Should the government regulate the internet?,Openness,Low,Low,High,Low,High,Low,Low,High,Low
+Should the government regulate the internet?,Conscientiousness,High,High,High,Low,High,Low,Low,High,High
+Should the government regulate the internet?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Should the government regulate the internet?,Neuroticism,High,High,Low,High,Low,Low,Low,High,Low
+Is censorship ever justified?,Agreeableness,High,Low,Low,Low,Low,Low,Low,Low,Low
+Is censorship ever justified?,Openness,Low,Low,High,Low,High,Low,Low,Low,High
+Is censorship ever justified?,Conscientiousness,High,High,Low,High,Low,Low,Low,High,Low
+Is censorship ever justified?,Extraversion,Low,High,Low,Low,High,Low,Low,Low,Low
+Is censorship ever justified?,Neuroticism,High,High,Low,High,Low,Low,Low,High,Low
+Should healthcare be free for everyone?,Agreeableness,High,Low,Low,Low,Low,Low,Low,Low,Low
+Should healthcare be free for everyone?,Openness,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Should healthcare be free for everyone?,Conscientiousness,High,High,High,High,High,Low,Low,High,High
+Should healthcare be free for everyone?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,High
+Should healthcare be free for everyone?,Neuroticism,High,High,Low,High,Low,Low,Low,High,High
+Is the concept of marriage outdated?,Agreeableness,High,Low,High,Low,High,Low,Low,Low,High
+Is the concept of marriage outdated?,Openness,Low,High,High,High,High,Low,Low,High,Low
+Is the concept of marriage outdated?,Conscientiousness,High,Low,High,Low,High,Low,Low,Low,High
+Is the concept of marriage outdated?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Is the concept of marriage outdated?,Neuroticism,High,High,Low,High,Low,Low,Low,High,Low
+Should the legal drinking age be changed?,Agreeableness,High,Low,Low,Low,Low,Low,Low,High,Low
+Should the legal drinking age be changed?,Openness,Low,High,Low,High,Low,Low,Low,High,Low
+Should the legal drinking age be changed?,Conscientiousness,High,Low,High,Low,High,Low,Low,Low,High
+Should the legal drinking age be changed?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Should the legal drinking age be changed?,Neuroticism,High,High,High,Low,Low,Low,Low,Low,Low
+Is capital punishment effective in deterring crime?,Agreeableness,High,Low,High,Low,High,Low,Low,Low,High
+Is capital punishment effective in deterring crime?,Openness,Low,Low,High,Low,High,Low,Low,Low,High
+Is capital punishment effective in deterring crime?,Conscientiousness,High,High,High,High,High,Low,Low,High,Low
+Is capital punishment effective in deterring crime?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Is capital punishment effective in deterring crime?,Neuroticism,High,High,Low,High,Low,Low,Low,High,Low
+Should the use of drones be regulated?,Agreeableness,High,Low,Low,Low,Low,Low,Low,High,High
+Should the use of drones be regulated?,Openness,Low,Low,High,Low,High,Low,Low,High,High
+Should the use of drones be regulated?,Conscientiousness,High,High,Low,High,High,Low,Low,High,High
+Should the use of drones be regulated?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,High
+Should the use of drones be regulated?,Neuroticism,High,High,Low,High,Low,Low,Low,High,Low
+Is the gig economy beneficial for workers?,Agreeableness,High,Low,High,Low,High,Low,Low,Low,High
+Is the gig economy beneficial for workers?,Openness,Low,Low,High,Low,High,Low,Low,Low,High
+Is the gig economy beneficial for workers?,Conscientiousness,High,High,Low,High,Low,Low,Low,Low,Low
+Is the gig economy beneficial for workers?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Is the gig economy beneficial for workers?,Neuroticism,High,High,High,High,High,Low,Low,High,Low
+Should advertising to children be restricted?,Agreeableness,High,Low,High,Low,High,Low,Low,Low,High
+Should advertising to children be restricted?,Openness,Low,High,High,Low,High,Low,Low,Low,Low
+Should advertising to children be restricted?,Conscientiousness,High,Low,High,Low,High,Low,Low,Low,High
+Should advertising to children be restricted?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Should advertising to children be restricted?,Neuroticism,High,High,High,Low,High,Low,Low,High,High
+Is the current education system outdated?,Agreeableness,High,Low,Low,Low,High,Low,Low,Low,High
+Is the current education system outdated?,Openness,Low,High,Low,High,Low,Low,Low,High,Low
+Is the current education system outdated?,Conscientiousness,High,Low,High,Low,High,Low,Low,Low,High
+Is the current education system outdated?,Extraversion,Low,High,Low,High,Low,Low,Low,Low,Low
+Is the current education system outdated?,Neuroticism,High,High,High,Low,Low,Low,Low,Low,Low
+Should the government provide free internet access?,Agreeableness,High,Low,Low,Low,Low,Low,Low,Low,Low
+Should the government provide free internet access?,Openness,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Should the government provide free internet access?,Conscientiousness,High,High,High,High,High,Low,Low,High,High
+Should the government provide free internet access?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Should the government provide free internet access?,Neuroticism,High,High,High,High,Low,Low,Low,High,High
+Is the concept of a nuclear family still relevant?,Agreeableness,High,Low,High,Low,High,Low,Low,Low,High
+Is the concept of a nuclear family still relevant?,Openness,Low,High,Low,High,Low,Low,Low,High,Low
+Is the concept of a nuclear family still relevant?,Conscientiousness,High,Low,High,Low,High,Low,Low,Low,High
+Is the concept of a nuclear family still relevant?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Is the concept of a nuclear family still relevant?,Neuroticism,High,High,Low,High,Low,Low,Low,High,Low
+Should the use of fossil fuels be banned?,Agreeableness,High,Low,High,Low,High,Low,Low,Low,High
+Should the use of fossil fuels be banned?,Openness,Low,High,High,Low,High,Low,Low,Low,Low
+Should the use of fossil fuels be banned?,Conscientiousness,High,High,High,High,High,Low,Low,Low,High
+Should the use of fossil fuels be banned?,Extraversion,Low,High,Low,High,Low,Low,Low,Low,Low
+Should the use of fossil fuels be banned?,Neuroticism,High,High,Low,High,Low,Low,Low,High,Low
+Is the portrayal of violence in media harmful?,Agreeableness,High,Low,Low,Low,Low,Low,Low,Low,Low
+Is the portrayal of violence in media harmful?,Openness,Low,Low,High,High,High,Low,Low,High,High
+Is the portrayal of violence in media harmful?,Conscientiousness,High,High,High,High,High,Low,Low,High,Low
+Is the portrayal of violence in media harmful?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Is the portrayal of violence in media harmful?,Neuroticism,High,High,Low,Low,Low,Low,Low,Low,Low
+Should the government control the media?,Agreeableness,High,Low,Low,Low,Low,Low,Low,Low,High
+Should the government control the media?,Openness,Low,Low,High,Low,High,Low,Low,Low,High
+Should the government control the media?,Conscientiousness,High,High,High,High,High,Low,Low,High,Low
+Should the government control the media?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Should the government control the media?,Neuroticism,High,High,High,High,Low,Low,Low,High,Low
+Is the use of surveillance cameras an invasion of privacy?,Agreeableness,High,Low,Low,Low,Low,Low,Low,Low,High
+Is the use of surveillance cameras an invasion of privacy?,Openness,Low,Low,High,High,High,Low,Low,Low,Low
+Is the use of surveillance cameras an invasion of privacy?,Conscientiousness,High,Low,High,Low,Low,Low,Low,Low,High
+Is the use of surveillance cameras an invasion of privacy?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Is the use of surveillance cameras an invasion of privacy?,Neuroticism,High,High,High,High,High,Low,Low,High,High
+Should the government fund space exploration?,Agreeableness,High,Low,High,Low,High,Low,Low,Low,High
+Should the government fund space exploration?,Openness,Low,Low,High,Low,High,Low,Low,Low,High
+Should the government fund space exploration?,Conscientiousness,High,High,High,High,High,Low,Low,Low,High
+Should the government fund space exploration?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Should the government fund space exploration?,Neuroticism,High,High,Low,High,Low,Low,Low,High,Low
+Is the fashion industry contributing to body image issues?,Agreeableness,High,Low,Low,Low,Low,Low,Low,High,High
+Is the fashion industry contributing to body image issues?,Openness,Low,High,High,High,High,Low,Low,High,High
+Is the fashion industry contributing to body image issues?,Conscientiousness,High,Low,High,Low,High,Low,Low,Low,High
+Is the fashion industry contributing to body image issues?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Is the fashion industry contributing to body image issues?,Neuroticism,High,High,Low,High,Low,Low,Low,High,Low
+Should the use of performance-enhancing drugs be allowed in sports?,Agreeableness,High,Low,Low,High,Low,Low,Low,High,Low
+Should the use of performance-enhancing drugs be allowed in sports?,Openness,Low,Low,High,Low,High,Low,Low,Low,High
+Should the use of performance-enhancing drugs be allowed in sports?,Conscientiousness,High,High,Low,High,Low,Low,Low,High,Low
+Should the use of performance-enhancing drugs be allowed in sports?,Extraversion,Low,High,High,Low,High,Low,Low,Low,High
+Should the use of performance-enhancing drugs be allowed in sports?,Neuroticism,High,High,Low,Low,Low,Low,Low,High,Low
+Is the concept of a minimum wage outdated?,Agreeableness,High,Low,High,Low,High,Low,Low,Low,High
+Is the concept of a minimum wage outdated?,Openness,Low,Low,High,Low,High,Low,Low,Low,High
+Is the concept of a minimum wage outdated?,Conscientiousness,High,High,High,Low,High,Low,Low,Low,Low
+Is the concept of a minimum wage outdated?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Is the concept of a minimum wage outdated?,Neuroticism,High,High,Low,High,Low,Low,Low,High,Low
+Should the government regulate the food industry?,Agreeableness,High,Low,High,Low,High,Low,Low,High,High
+Should the government regulate the food industry?,Openness,Low,Low,High,High,High,Low,Low,Low,Low
+Should the government regulate the food industry?,Conscientiousness,High,High,High,Low,High,Low,Low,Low,High
+Should the government regulate the food industry?,Extraversion,Low,Low,Low,High,Low,Low,Low,Low,Low
+Should the government regulate the food industry?,Neuroticism,High,High,Low,Low,Low,Low,Low,Low,High
+Is the use of animals in entertainment ethical?,Agreeableness,High,Low,High,High,Low,Low,Low,High,High
+Is the use of animals in entertainment ethical?,Openness,Low,High,High,High,High,Low,Low,High,High
+Is the use of animals in entertainment ethical?,Conscientiousness,High,High,Low,High,Low,Low,Low,High,Low
+Is the use of animals in entertainment ethical?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Is the use of animals in entertainment ethical?,Neuroticism,High,High,High,Low,Low,Low,Low,High,Low
+Should the government provide free childcare?,Agreeableness,High,Low,Low,Low,Low,Low,Low,Low,Low
+Should the government provide free childcare?,Openness,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Should the government provide free childcare?,Conscientiousness,High,High,High,High,High,Low,Low,High,High
+Should the government provide free childcare?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,High
+Should the government provide free childcare?,Neuroticism,High,High,Low,Low,Low,Low,Low,High,High
+Is the concept of a work-life balance achievable?,Agreeableness,High,Low,Low,High,Low,Low,Low,High,Low
+Is the concept of a work-life balance achievable?,Openness,Low,Low,Low,High,Low,Low,Low,Low,High
+Is the concept of a work-life balance achievable?,Conscientiousness,High,Low,High,Low,High,Low,Low,Low,Low
+Is the concept of a work-life balance achievable?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Is the concept of a work-life balance achievable?,Neuroticism,High,High,High,High,High,Low,Low,High,High
+Should the government regulate the housing market?,Agreeableness,High,Low,Low,Low,Low,Low,Low,High,High
+Should the government regulate the housing market?,Openness,Low,High,Low,High,High,Low,Low,Low,Low
+Should the government regulate the housing market?,Conscientiousness,High,High,Low,High,Low,Low,Low,High,Low
+Should the government regulate the housing market?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Should the government regulate the housing market?,Neuroticism,High,High,High,Low,Low,Low,Low,High,Low
+Is the use of artificial intelligence ethical?,Agreeableness,High,Low,High,Low,High,Low,Low,Low,High
+Is the use of artificial intelligence ethical?,Openness,Low,Low,High,Low,High,Low,Low,Low,High
+Is the use of artificial intelligence ethical?,Conscientiousness,High,High,High,High,High,Low,Low,Low,High
+Is the use of artificial intelligence ethical?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Is the use of artificial intelligence ethical?,Neuroticism,High,High,Low,High,Low,Low,Low,High,Low
+Should the government provide free higher education?,Agreeableness,High,Low,Low,Low,Low,Low,Low,Low,Low
+Should the government provide free higher education?,Openness,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Should the government provide free higher education?,Conscientiousness,High,High,High,High,High,Low,Low,High,High
+Should the government provide free higher education?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,High
+Should the government provide free higher education?,Neuroticism,High,High,High,High,Low,Low,Low,High,High
+Is the concept of a universal language beneficial?,Agreeableness,High,Low,Low,Low,Low,Low,Low,High,High
+Is the concept of a universal language beneficial?,Openness,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Is the concept of a universal language beneficial?,Conscientiousness,High,High,High,Low,High,Low,Low,Low,High
+Is the concept of a universal language beneficial?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Is the concept of a universal language beneficial?,Neuroticism,High,High,High,High,Low,Low,Low,High,Low
+Should the government regulate the pharmaceutical industry?,Agreeableness,High,Low,High,High,Low,Low,Low,High,High
+Should the government regulate the pharmaceutical industry?,Openness,Low,High,High,High,High,Low,Low,Low,High
+Should the government regulate the pharmaceutical industry?,Conscientiousness,High,High,High,High,High,Low,Low,Low,Low
+Should the government regulate the pharmaceutical industry?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Should the government regulate the pharmaceutical industry?,Neuroticism,High,High,Low,Low,Low,Low,Low,High,Low
+Is the use of nuclear energy justified?,Agreeableness,High,Low,Low,Low,Low,Low,Low,High,Low
+Is the use of nuclear energy justified?,Openness,Low,Low,High,High,High,Low,Low,Low,High
+Is the use of nuclear energy justified?,Conscientiousness,High,High,High,High,High,Low,Low,High,High
+Is the use of nuclear energy justified?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Is the use of nuclear energy justified?,Neuroticism,High,High,Low,High,Low,Low,Low,High,Low
+Should the government provide free public transportation?,Agreeableness,High,Low,Low,Low,Low,Low,Low,Low,Low
+Should the government provide free public transportation?,Openness,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Should the government provide free public transportation?,Conscientiousness,High,High,High,High,High,Low,Low,High,High
+Should the government provide free public transportation?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Should the government provide free public transportation?,Neuroticism,High,High,High,Low,Low,Low,Low,Low,Low
+Is the concept of a cashless society beneficial?,Agreeableness,High,Low,Low,Low,High,Low,Low,High,Low
+Is the concept of a cashless society beneficial?,Openness,Low,Low,Low,High,Low,Low,Low,Low,Low
+Is the concept of a cashless society beneficial?,Conscientiousness,High,High,High,Low,High,Low,Low,Low,Low
+Is the concept of a cashless society beneficial?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Is the concept of a cashless society beneficial?,Neuroticism,High,High,High,High,High,Low,Low,High,High
+Should the government regulate the gaming industry?,Agreeableness,High,Low,Low,High,Low,Low,Low,High,High
+Should the government regulate the gaming industry?,Openness,Low,Low,High,High,High,Low,Low,High,Low
+Should the government regulate the gaming industry?,Conscientiousness,High,High,Low,High,Low,Low,Low,Low,Low
+Should the government regulate the gaming industry?,Extraversion,Low,Low,Low,Low,High,Low,Low,Low,Low
+Should the government regulate the gaming industry?,Neuroticism,High,High,Low,Low,Low,Low,Low,Low,Low
+Is the use of genetic engineering ethical?,Agreeableness,High,Low,Low,Low,High,Low,Low,Low,Low
+Is the use of genetic engineering ethical?,Openness,Low,Low,Low,Low,High,Low,Low,Low,Low
+Is the use of genetic engineering ethical?,Conscientiousness,High,High,High,High,High,Low,Low,Low,Low
+Is the use of genetic engineering ethical?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Is the use of genetic engineering ethical?,Neuroticism,High,High,High,High,High,Low,Low,High,High
+Should the government provide free mental health services?,Agreeableness,High,Low,Low,Low,Low,Low,Low,Low,Low
+Should the government provide free mental health services?,Openness,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Should the government provide free mental health services?,Conscientiousness,High,High,High,High,High,Low,Low,High,High
+Should the government provide free mental health services?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,High
+Should the government provide free mental health services?,Neuroticism,High,Low,Low,Low,Low,Low,Low,High,High
+Is the concept of a global government feasible?,Agreeableness,High,Low,Low,Low,Low,Low,Low,Low,Low
+Is the concept of a global government feasible?,Openness,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Is the concept of a global government feasible?,Conscientiousness,High,High,High,High,High,Low,Low,High,High
+Is the concept of a global government feasible?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Is the concept of a global government feasible?,Neuroticism,High,High,High,High,Low,Low,Low,High,Low
+Should the government regulate the fashion industry?,Agreeableness,High,Low,High,Low,High,Low,Low,Low,High
+Should the government regulate the fashion industry?,Openness,Low,Low,High,High,High,Low,Low,Low,High
+Should the government regulate the fashion industry?,Conscientiousness,High,Low,High,Low,High,Low,Low,Low,High
+Should the government regulate the fashion industry?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Should the government regulate the fashion industry?,Neuroticism,High,High,Low,Low,Low,Low,Low,High,Low
+Is the use of cloning ethical?,Agreeableness,High,Low,Low,Low,High,Low,Low,Low,Low
+Is the use of cloning ethical?,Openness,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Is the use of cloning ethical?,Conscientiousness,High,High,High,High,High,Low,Low,High,High
+Is the use of cloning ethical?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Is the use of cloning ethical?,Neuroticism,High,High,High,High,High,Low,Low,High,High
+Should the government provide free legal services?,Agreeableness,High,Low,Low,Low,Low,Low,Low,Low,Low
+Should the government provide free legal services?,Openness,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Should the government provide free legal services?,Conscientiousness,High,High,High,High,High,Low,Low,High,High
+Should the government provide free legal services?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,High
+Should the government provide free legal services?,Neuroticism,High,High,High,High,Low,Low,Low,High,High
+Is the concept of a merit-based immigration system fair?,Agreeableness,High,Low,High,Low,Low,Low,Low,High,High
+Is the concept of a merit-based immigration system fair?,Openness,Low,Low,High,Low,High,Low,Low,Low,Low
+Is the concept of a merit-based immigration system fair?,Conscientiousness,High,High,High,High,High,Low,Low,Low,High
+Is the concept of a merit-based immigration system fair?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Is the concept of a merit-based immigration system fair?,Neuroticism,High,High,Low,High,Low,Low,Low,High,Low
+Should the government regulate the tourism industry?,Agreeableness,High,Low,High,Low,High,Low,Low,Low,High
+Should the government regulate the tourism industry?,Openness,Low,Low,High,Low,High,Low,Low,Low,Low
+Should the government regulate the tourism industry?,Conscientiousness,High,High,High,High,High,Low,Low,High,High
+Should the government regulate the tourism industry?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Should the government regulate the tourism industry?,Neuroticism,High,High,Low,High,Low,Low,Low,High,Low
+Is the use of corporal punishment justified?,Agreeableness,High,Low,High,Low,High,Low,Low,Low,High
+Is the use of corporal punishment justified?,Openness,Low,Low,High,Low,High,Low,Low,Low,High
+Is the use of corporal punishment justified?,Conscientiousness,High,High,High,High,High,Low,Low,High,Low
+Is the use of corporal punishment justified?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Is the use of corporal punishment justified?,Neuroticism,High,High,Low,Low,Low,Low,Low,High,Low
+Should the government provide free housing?,Agreeableness,High,Low,Low,Low,Low,Low,Low,Low,Low
+Should the government provide free housing?,Openness,Low,Low,Low,Low,High,Low,Low,Low,Low
+Should the government provide free housing?,Conscientiousness,High,High,High,High,High,Low,Low,High,High
+Should the government provide free housing?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,High
+Should the government provide free housing?,Neuroticism,High,High,High,Low,Low,Low,Low,High,High
+Is the concept of a digital currency beneficial?,Agreeableness,High,Low,Low,Low,Low,Low,Low,Low,High
+Is the concept of a digital currency beneficial?,Openness,Low,High,Low,High,Low,Low,Low,High,Low
+Is the concept of a digital currency beneficial?,Conscientiousness,High,Low,High,Low,High,Low,Low,Low,High
+Is the concept of a digital currency beneficial?,Extraversion,Low,High,Low,High,Low,Low,Low,High,Low
+Is the concept of a digital currency beneficial?,Neuroticism,High,High,High,Low,High,Low,Low,High,High
+Should the government regulate the art industry?,Agreeableness,High,Low,High,Low,High,Low,Low,High,High
+Should the government regulate the art industry?,Openness,Low,High,High,High,High,Low,Low,High,Low
+Should the government regulate the art industry?,Conscientiousness,High,Low,High,Low,High,Low,Low,Low,High
+Should the government regulate the art industry?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Should the government regulate the art industry?,Neuroticism,High,High,Low,High,Low,Low,Low,High,Low
+Is the use of torture ever justified?,Agreeableness,High,Low,High,Low,High,Low,Low,Low,High
+Is the use of torture ever justified?,Openness,Low,Low,High,Low,High,Low,Low,Low,High
+Is the use of torture ever justified?,Conscientiousness,High,High,High,High,High,Low,Low,High,High
+Is the use of torture ever justified?,Extraversion,Low,High,Low,Low,Low,Low,Low,Low,Low
+Is the use of torture ever justified?,Neuroticism,High,High,Low,High,Low,Low,Low,Low,Low
+Should the government provide free vocational training?,Agreeableness,High,Low,Low,Low,Low,Low,Low,Low,Low
+Should the government provide free vocational training?,Openness,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Should the government provide free vocational training?,Conscientiousness,High,High,High,High,High,Low,Low,High,High
+Should the government provide free vocational training?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,High
+Should the government provide free vocational training?,Neuroticism,High,High,High,Low,Low,Low,Low,Low,High
+Is the concept of a flat tax rate fair?,Agreeableness,High,Low,Low,High,Low,Low,Low,High,High
+Is the concept of a flat tax rate fair?,Openness,Low,High,Low,High,High,Low,Low,Low,High
+Is the concept of a flat tax rate fair?,Conscientiousness,High,High,High,Low,High,Low,Low,Low,Low
+Is the concept of a flat tax rate fair?,Extraversion,Low,High,Low,Low,Low,Low,Low,Low,Low
+Is the concept of a flat tax rate fair?,Neuroticism,High,High,Low,High,Low,Low,Low,High,Low
+Should the government regulate the music industry?,Agreeableness,High,Low,High,Low,High,Low,Low,Low,High
+Should the government regulate the music industry?,Openness,Low,High,Low,High,Low,Low,Low,High,Low
+Should the government regulate the music industry?,Conscientiousness,High,Low,High,Low,High,Low,Low,Low,High
+Should the government regulate the music industry?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Should the government regulate the music industry?,Neuroticism,High,High,High,High,Low,Low,Low,Low,Low
+Is the use of child labor ever justified?,Agreeableness,High,Low,High,Low,High,Low,Low,Low,High
+Is the use of child labor ever justified?,Openness,Low,Low,High,Low,High,Low,Low,Low,High
+Is the use of child labor ever justified?,Conscientiousness,High,High,High,High,High,Low,Low,High,Low
+Is the use of child labor ever justified?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Is the use of child labor ever justified?,Neuroticism,High,High,Low,High,Low,Low,Low,High,Low
+Should the government provide free elder care?,Agreeableness,High,Low,Low,Low,Low,Low,Low,Low,Low
+Should the government provide free elder care?,Openness,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Should the government provide free elder care?,Conscientiousness,High,High,High,High,High,Low,Low,High,High
+Should the government provide free elder care?,Extraversion,Low,High,Low,Low,Low,Low,Low,Low,Low
+Should the government provide free elder care?,Neuroticism,High,High,High,High,Low,Low,Low,High,Low
+Is the concept of a universal healthcare system feasible?,Agreeableness,High,Low,Low,Low,Low,Low,Low,Low,Low
+Is the concept of a universal healthcare system feasible?,Openness,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Is the concept of a universal healthcare system feasible?,Conscientiousness,High,High,High,High,High,Low,Low,High,High
+Is the concept of a universal healthcare system feasible?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Is the concept of a universal healthcare system feasible?,Neuroticism,High,High,High,High,High,Low,Low,High,Low
+Should the government regulate the film industry?,Agreeableness,High,Low,High,Low,High,Low,Low,Low,High
+Should the government regulate the film industry?,Openness,Low,High,Low,High,Low,Low,Low,High,Low
+Should the government regulate the film industry?,Conscientiousness,High,Low,High,Low,High,Low,Low,Low,High
+Should the government regulate the film industry?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Should the government regulate the film industry?,Neuroticism,High,High,High,High,Low,Low,Low,Low,High
+Is the use of capital punishment ethical?,Agreeableness,High,Low,Low,High,Low,Low,Low,High,Low
+Is the use of capital punishment ethical?,Openness,Low,High,Low,High,Low,Low,Low,High,Low
+Is the use of capital punishment ethical?,Conscientiousness,High,High,High,Low,High,Low,Low,Low,High
+Is the use of capital punishment ethical?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,High
+Is the use of capital punishment ethical?,Neuroticism,High,High,Low,Low,Low,Low,Low,High,High
+Should the government provide free job training?,Agreeableness,High,Low,Low,Low,Low,Low,Low,Low,Low
+Should the government provide free job training?,Openness,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Should the government provide free job training?,Conscientiousness,High,High,High,High,High,Low,Low,High,High
+Should the government provide free job training?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Should the government provide free job training?,Neuroticism,High,High,Low,High,Low,Low,Low,High,Low
+Is the concept of a living wage achievable?,Agreeableness,High,Low,Low,Low,Low,Low,Low,Low,Low
+Is the concept of a living wage achievable?,Openness,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Is the concept of a living wage achievable?,Conscientiousness,High,Low,High,Low,Low,Low,Low,Low,High
+Is the concept of a living wage achievable?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Is the concept of a living wage achievable?,Neuroticism,High,High,High,High,High,Low,Low,High,High
+Should the government regulate the publishing industry?,Agreeableness,High,Low,High,Low,High,Low,Low,Low,High
+Should the government regulate the publishing industry?,Openness,Low,High,High,High,High,Low,Low,High,Low
+Should the government regulate the publishing industry?,Conscientiousness,High,Low,High,Low,High,Low,Low,Low,High
+Should the government regulate the publishing industry?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Should the government regulate the publishing industry?,Neuroticism,High,High,Low,High,Low,Low,Low,Low,Low
+Is the use of sweatshops ever justified?,Agreeableness,High,Low,High,Low,High,Low,Low,Low,High
+Is the use of sweatshops ever justified?,Openness,Low,Low,High,Low,High,Low,Low,Low,High
+Is the use of sweatshops ever justified?,Conscientiousness,High,High,High,High,High,Low,Low,High,High
+Is the use of sweatshops ever justified?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Is the use of sweatshops ever justified?,Neuroticism,High,High,Low,Low,Low,Low,Low,Low,Low
+Should the government provide free healthcare for all?,Agreeableness,High,Low,Low,Low,Low,Low,Low,Low,Low
+Should the government provide free healthcare for all?,Openness,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Should the government provide free healthcare for all?,Conscientiousness,High,High,High,High,High,Low,Low,High,High
+Should the government provide free healthcare for all?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,High
+Should the government provide free healthcare for all?,Neuroticism,High,High,High,High,Low,Low,Low,High,High
+Is the concept of a universal education system beneficial?,Agreeableness,High,Low,Low,Low,Low,Low,Low,Low,High
+Is the concept of a universal education system beneficial?,Openness,Low,High,High,High,High,Low,Low,High,Low
+Is the concept of a universal education system beneficial?,Conscientiousness,High,High,High,Low,Low,Low,Low,High,Low
+Is the concept of a universal education system beneficial?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Is the concept of a universal education system beneficial?,Neuroticism,High,High,Low,High,Low,Low,Low,High,Low
+Should the government regulate the advertising industry?,Agreeableness,High,Low,High,Low,High,Low,Low,Low,High
+Should the government regulate the advertising industry?,Openness,Low,Low,Low,High,High,Low,Low,High,Low
+Should the government regulate the advertising industry?,Conscientiousness,High,Low,High,Low,High,Low,Low,Low,High
+Should the government regulate the advertising industry?,Extraversion,Low,High,Low,Low,Low,Low,Low,Low,Low
+Should the government regulate the advertising industry?,Neuroticism,High,High,High,Low,Low,Low,Low,Low,High
+Is the use of child soldiers ever justified?,Agreeableness,High,Low,High,Low,High,Low,Low,Low,High
+Is the use of child soldiers ever justified?,Openness,Low,Low,High,Low,High,Low,Low,Low,Low
+Is the use of child soldiers ever justified?,Conscientiousness,High,Low,High,Low,High,Low,Low,High,High
+Is the use of child soldiers ever justified?,Extraversion,Low,High,Low,Low,Low,Low,Low,Low,Low
+Is the use of child soldiers ever justified?,Neuroticism,High,High,Low,High,Low,Low,Low,High,Low
+Should the government provide free public services?,Agreeableness,High,Low,Low,Low,Low,Low,Low,Low,Low
+Should the government provide free public services?,Openness,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Should the government provide free public services?,Conscientiousness,High,High,High,High,High,Low,Low,High,High
+Should the government provide free public services?,Extraversion,Low,Low,Low,Low,Low,Low,Low,High,High
+Should the government provide free public services?,Neuroticism,High,High,Low,High,Low,Low,Low,High,High
+Is the concept of a global currency feasible?,Agreeableness,High,Low,Low,Low,Low,Low,Low,Low,High
+Is the concept of a global currency feasible?,Openness,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Is the concept of a global currency feasible?,Conscientiousness,High,High,High,High,High,Low,Low,Low,High
+Is the concept of a global currency feasible?,Extraversion,Low,Low,High,Low,Low,Low,Low,Low,Low
+Is the concept of a global currency feasible?,Neuroticism,High,High,High,High,High,Low,Low,High,High
+Should the government regulate the telecommunications industry?,Agreeableness,High,Low,High,Low,High,Low,Low,Low,High
+Should the government regulate the telecommunications industry?,Openness,Low,Low,High,High,High,Low,Low,Low,Low
+Should the government regulate the telecommunications industry?,Conscientiousness,High,Low,High,Low,High,Low,Low,Low,High
+Should the government regulate the telecommunications industry?,Extraversion,Low,High,Low,High,Low,Low,Low,High,Low
+Should the government regulate the telecommunications industry?,Neuroticism,High,High,Low,Low,Low,Low,Low,Low,Low
+Is the use of nuclear weapons ever justified?,Agreeableness,High,Low,Low,Low,High,Low,Low,High,High
+Is the use of nuclear weapons ever justified?,Openness,Low,Low,High,Low,High,Low,Low,High,High
+Is the use of nuclear weapons ever justified?,Conscientiousness,High,High,High,High,High,Low,Low,Low,High
+Is the use of nuclear weapons ever justified?,Extraversion,Low,High,Low,High,Low,Low,Low,Low,Low
+Is the use of nuclear weapons ever justified?,Neuroticism,High,Low,High,Low,Low,Low,Low,Low,Low
+Should the government provide free environmental services?,Agreeableness,High,Low,Low,Low,Low,Low,Low,Low,Low
+Should the government provide free environmental services?,Openness,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Should the government provide free environmental services?,Conscientiousness,High,High,High,High,High,Low,Low,High,High
+Should the government provide free environmental services?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Should the government provide free environmental services?,Neuroticism,High,High,Low,Low,Low,Low,Low,High,Low
+Is the concept of a universal basic income feasible?,Agreeableness,High,Low,Low,Low,Low,Low,Low,Low,Low
+Is the concept of a universal basic income feasible?,Openness,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Is the concept of a universal basic income feasible?,Conscientiousness,High,High,High,High,High,Low,Low,High,High
+Is the concept of a universal basic income feasible?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Is the concept of a universal basic income feasible?,Neuroticism,High,High,High,High,High,Low,Low,High,Low
+Should the government regulate the transportation industry?,Agreeableness,High,Low,High,Low,High,Low,Low,Low,High
+Should the government regulate the transportation industry?,Openness,Low,Low,High,Low,High,Low,Low,Low,Low
+Should the government regulate the transportation industry?,Conscientiousness,High,Low,High,Low,High,Low,Low,Low,High
+Should the government regulate the transportation industry?,Extraversion,Low,High,Low,Low,Low,Low,Low,Low,Low
+Should the government regulate the transportation industry?,Neuroticism,High,High,Low,High,Low,Low,Low,High,High
+Is the use of genetic modification in humans ethical?,Agreeableness,High,Low,Low,Low,High,Low,Low,High,Low
+Is the use of genetic modification in humans ethical?,Openness,Low,Low,Low,High,High,Low,Low,High,Low
+Is the use of genetic modification in humans ethical?,Conscientiousness,High,High,High,High,High,Low,Low,Low,High
+Is the use of genetic modification in humans ethical?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Is the use of genetic modification in humans ethical?,Neuroticism,High,High,High,High,High,Low,Low,High,High
+Should the government provide free disaster relief services?,Agreeableness,High,Low,Low,Low,Low,Low,Low,Low,Low
+Should the government provide free disaster relief services?,Openness,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Should the government provide free disaster relief services?,Conscientiousness,High,High,High,High,High,Low,Low,High,High
+Should the government provide free disaster relief services?,Extraversion,Low,Low,Low,Low,Low,Low,Low,High,High
+Should the government provide free disaster relief services?,Neuroticism,High,High,High,High,Low,Low,Low,High,High
+Is the concept of a universal language achievable?,Agreeableness,High,Low,Low,Low,Low,Low,Low,Low,High
+Is the concept of a universal language achievable?,Openness,Low,Low,Low,Low,Low,Low,Low,Low,High
+Is the concept of a universal language achievable?,Conscientiousness,High,Low,High,Low,High,Low,Low,Low,Low
+Is the concept of a universal language achievable?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Is the concept of a universal language achievable?,Neuroticism,High,High,High,High,Low,Low,Low,High,Low
+Should the government regulate the energy industry?,Agreeableness,High,Low,Low,Low,Low,Low,Low,High,High
+Should the government regulate the energy industry?,Openness,Low,Low,High,High,High,Low,Low,Low,Low
+Should the government regulate the energy industry?,Conscientiousness,High,High,High,High,Low,Low,Low,High,Low
+Should the government regulate the energy industry?,Extraversion,Low,High,Low,Low,Low,Low,Low,Low,Low
+Should the government regulate the energy industry?,Neuroticism,High,High,Low,Low,Low,Low,Low,High,Low
+Is the use of artificial intelligence in warfare ethical?,Agreeableness,High,Low,Low,Low,Low,Low,Low,Low,Low
+Is the use of artificial intelligence in warfare ethical?,Openness,Low,Low,High,Low,High,Low,Low,High,High
+Is the use of artificial intelligence in warfare ethical?,Conscientiousness,High,High,High,High,High,Low,Low,Low,High
+Is the use of artificial intelligence in warfare ethical?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Is the use of artificial intelligence in warfare ethical?,Neuroticism,High,High,Low,High,Low,Low,Low,High,Low
+Should the government provide free emergency services?,Agreeableness,High,Low,Low,Low,Low,Low,Low,Low,Low
+Should the government provide free emergency services?,Openness,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Should the government provide free emergency services?,Conscientiousness,High,High,High,High,High,Low,Low,High,High
+Should the government provide free emergency services?,Extraversion,Low,Low,Low,Low,Low,Low,Low,High,High
+Should the government provide free emergency services?,Neuroticism,High,High,Low,High,Low,Low,Low,High,High
+Is the concept of a global government beneficial?,Agreeableness,High,Low,Low,Low,Low,Low,Low,Low,High
+Is the concept of a global government beneficial?,Openness,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Is the concept of a global government beneficial?,Conscientiousness,High,High,High,High,High,Low,Low,Low,Low
+Is the concept of a global government beneficial?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Is the concept of a global government beneficial?,Neuroticism,High,High,High,Low,Low,Low,Low,High,High
+Should the government regulate the water industry?,Agreeableness,High,Low,High,Low,High,Low,Low,Low,High
+Should the government regulate the water industry?,Openness,Low,Low,High,Low,High,Low,Low,High,Low
+Should the government regulate the water industry?,Conscientiousness,High,Low,High,Low,High,Low,Low,High,High
+Should the government regulate the water industry?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Should the government regulate the water industry?,Neuroticism,High,High,Low,High,Low,Low,Low,High,Low
+Is the use of genetic engineering in agriculture ethical?,Agreeableness,High,Low,Low,High,High,Low,Low,Low,Low
+Is the use of genetic engineering in agriculture ethical?,Openness,Low,High,High,High,High,Low,Low,High,Low
+Is the use of genetic engineering in agriculture ethical?,Conscientiousness,High,High,High,High,High,Low,Low,High,High
+Is the use of genetic engineering in agriculture ethical?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Is the use of genetic engineering in agriculture ethical?,Neuroticism,High,High,High,Low,Low,Low,Low,Low,High
+Should the government provide free sanitation services?,Agreeableness,High,Low,Low,Low,Low,Low,Low,High,Low
+Should the government provide free sanitation services?,Openness,Low,High,High,High,High,Low,Low,High,Low
+Should the government provide free sanitation services?,Conscientiousness,High,High,High,Low,High,Low,Low,Low,High
+Should the government provide free sanitation services?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Should the government provide free sanitation services?,Neuroticism,High,High,Low,High,Low,Low,Low,High,Low
+Is the concept of a cashless society feasible?,Agreeableness,High,Low,Low,Low,Low,Low,Low,Low,High
+Is the concept of a cashless society feasible?,Openness,Low,High,High,Low,High,Low,Low,Low,Low
+Is the concept of a cashless society feasible?,Conscientiousness,High,High,High,High,High,Low,Low,Low,High
+Is the concept of a cashless society feasible?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Is the concept of a cashless society feasible?,Neuroticism,High,High,High,High,High,Low,Low,High,High
+Should the government regulate the waste management industry?,Agreeableness,High,Low,Low,Low,Low,Low,Low,High,Low
+Should the government regulate the waste management industry?,Openness,Low,High,High,High,High,Low,Low,Low,High
+Should the government regulate the waste management industry?,Conscientiousness,High,High,Low,High,Low,Low,Low,High,Low
+Should the government regulate the waste management industry?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,High
+Should the government regulate the waste management industry?,Neuroticism,High,High,High,Low,Low,Low,Low,High,Low
+Is the use of artificial intelligence in healthcare ethical?,Agreeableness,High,Low,Low,Low,Low,Low,Low,Low,Low
+Is the use of artificial intelligence in healthcare ethical?,Openness,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Is the use of artificial intelligence in healthcare ethical?,Conscientiousness,High,High,High,High,High,Low,Low,Low,Low
+Is the use of artificial intelligence in healthcare ethical?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Is the use of artificial intelligence in healthcare ethical?,Neuroticism,High,High,High,High,High,Low,Low,High,High
+Should the government provide free education for all?,Agreeableness,High,Low,Low,Low,Low,Low,Low,Low,Low
+Should the government provide free education for all?,Openness,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Should the government provide free education for all?,Conscientiousness,High,High,High,High,High,Low,Low,High,High
+Should the government provide free education for all?,Extraversion,Low,Low,Low,Low,Low,Low,Low,High,Low
+Should the government provide free education for all?,Neuroticism,High,High,Low,Low,Low,Low,Low,High,Low
+Is the concept of a universal currency beneficial?,Agreeableness,High,Low,Low,Low,Low,Low,Low,Low,Low
+Is the concept of a universal currency beneficial?,Openness,Low,Low,Low,Low,Low,Low,Low,Low,High
+Is the concept of a universal currency beneficial?,Conscientiousness,High,High,High,High,High,Low,Low,Low,High
+Is the concept of a universal currency beneficial?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Is the concept of a universal currency beneficial?,Neuroticism,High,High,High,High,High,Low,Low,High,High
+Should the government regulate the financial industry?,Agreeableness,High,Low,High,Low,High,Low,Low,Low,High
+Should the government regulate the financial industry?,Openness,Low,Low,High,Low,High,Low,Low,High,Low
+Should the government regulate the financial industry?,Conscientiousness,High,Low,High,Low,High,Low,Low,Low,High
+Should the government regulate the financial industry?,Extraversion,Low,High,Low,High,Low,Low,Low,Low,Low
+Should the government regulate the financial industry?,Neuroticism,High,High,Low,Low,Low,Low,Low,Low,High
+Is the use of genetic modification in animals ethical?,Agreeableness,High,Low,Low,Low,High,Low,Low,Low,High
+Is the use of genetic modification in animals ethical?,Openness,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Is the use of genetic modification in animals ethical?,Conscientiousness,High,High,High,High,High,Low,Low,Low,High
+Is the use of genetic modification in animals ethical?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Is the use of genetic modification in animals ethical?,Neuroticism,High,High,High,High,High,Low,Low,High,High
+Should the government provide free housing for all?,Agreeableness,High,Low,Low,Low,Low,Low,Low,Low,Low
+Should the government provide free housing for all?,Openness,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Should the government provide free housing for all?,Conscientiousness,High,High,High,High,High,Low,Low,High,High
+Should the government provide free housing for all?,Extraversion,Low,Low,Low,Low,Low,Low,Low,High,Low
+Should the government provide free housing for all?,Neuroticism,High,High,Low,Low,Low,Low,Low,High,Low
+Is the concept of a global language beneficial?,Agreeableness,High,Low,High,Low,High,Low,Low,Low,High
+Is the concept of a global language beneficial?,Openness,Low,Low,High,High,High,Low,Low,Low,High
+Is the concept of a global language beneficial?,Conscientiousness,High,Low,High,Low,Low,Low,Low,Low,Low
+Is the concept of a global language beneficial?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Is the concept of a global language beneficial?,Neuroticism,High,High,Low,High,Low,Low,Low,High,Low
+Should the government regulate the insurance industry?,Agreeableness,High,Low,High,Low,High,Low,Low,Low,High
+Should the government regulate the insurance industry?,Openness,Low,Low,High,Low,High,Low,Low,Low,Low
+Should the government regulate the insurance industry?,Conscientiousness,High,Low,High,Low,High,Low,Low,Low,High
+Should the government regulate the insurance industry?,Extraversion,Low,Low,Low,High,Low,Low,Low,Low,Low
+Should the government regulate the insurance industry?,Neuroticism,High,High,Low,Low,Low,Low,Low,Low,High
+Is the use of artificial intelligence in education ethical?,Agreeableness,High,Low,Low,Low,Low,Low,Low,Low,Low
+Is the use of artificial intelligence in education ethical?,Openness,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Is the use of artificial intelligence in education ethical?,Conscientiousness,High,High,High,High,High,Low,Low,Low,High
+Is the use of artificial intelligence in education ethical?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Is the use of artificial intelligence in education ethical?,Neuroticism,High,High,High,High,High,Low,Low,High,High
+Should the government provide free transportation for all?,Agreeableness,High,Low,Low,Low,Low,Low,Low,Low,Low
+Should the government provide free transportation for all?,Openness,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Should the government provide free transportation for all?,Conscientiousness,High,High,High,High,High,Low,Low,High,High
+Should the government provide free transportation for all?,Extraversion,Low,Low,Low,Low,Low,Low,Low,Low,Low
+Should the government provide free transportation for all?,Neuroticism,High,High,High,High,Low,Low,Low,High,Low

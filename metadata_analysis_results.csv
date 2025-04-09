@@ -1,0 +1,4 @@
+dataset,total_utterances,total_sentences,total_words,assertions,questions,logical_structure_count,total_dialogues,avg_words_per_sentence,avg_utterance_length
+GPT-4o_vs_GPT-4o-mini,16160,70750,781330,14653,1507,690,2020,11.043533568904593,48.34962871287129
+LLaMA-3_vs_GPT-4,18180,44964,541603,15577,2603,767,2020,12.045258428965395,29.79114411441144
+DeepSeek_vs_LLaMA,18180,44387,1033592,17800,380,4697,2020,23.28591704778426,56.85324532453245
